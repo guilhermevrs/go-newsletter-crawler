@@ -2,7 +2,6 @@ package main
 
 import (
 	"errors"
-	"io/ioutil"
 	"log"
 	"net/mail"
 
@@ -12,33 +11,113 @@ import (
 	"github.com/emersion/go-sasl"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
+
+	"github.com/go-pg/pg/v10"
+	"github.com/go-pg/pg/v10/orm"
 )
 
+type Oauth2 struct {
+	ID    int64
+	User  string
+	Token *oauth2.Token
+}
+
 func authenticate(c *client.Client, cfg *oauth2.Config, username string) error {
-	supports, err := c.SupportAuth(sasl.Xoauth2)
-	if !supports {
-		return errors.New("XOAUTH2 not supported by the server")
-	}
+	DBToken := getToken(username)
 
-	// Ask for the user to login with his Google account
-	code, err := oauthdialog.Open(cfg)
-	if err != nil {
-		return err
-	}
+	var accessToken string
+	if DBToken == nil {
 
-	// Get a token from the returned code
-	// This token can be saved in a secure store to be reused later
-	token, err := cfg.Exchange(oauth2.NoContext, code)
-	if err != nil {
-		return err
+		supports, err := c.SupportAuth(sasl.Xoauth2)
+		if !supports {
+			return errors.New("XOAUTH2 not supported by the server")
+		}
+
+		// Ask for the user to login with his Google account
+		code, err := oauthdialog.Open(cfg)
+		if err != nil {
+			return err
+		}
+
+		// Get a token from the returned code
+		// This token can be saved in a secure store to be reused later
+		token, err := cfg.Exchange(oauth2.NoContext, code)
+		if err != nil {
+			return err
+		}
+
+		// Adds the token to DB
+		addToken(username, token)
+		accessToken = token.AccessToken
+	} else {
+		accessToken = DBToken.AccessToken
 	}
 
 	// Login to the IMAP server with XOAUTH2
-	saslClient := sasl.NewXoauth2Client(username, token.AccessToken)
+	saslClient := sasl.NewXoauth2Client(username, accessToken)
 	return c.Authenticate(saslClient)
 }
 
+func addToken(user string, token *oauth2.Token) {
+	execOnDB(func(db *pg.DB) error {
+		_, err := db.Model(&Oauth2{
+			User:  user,
+			Token: token,
+		}).Insert()
+		return err
+	})
+}
+
+func getToken(user string) *oauth2.Token {
+	oauth := new(Oauth2)
+	execOnDB(func(db *pg.DB) error {
+		log.Println("Trying to get the token from DB for user", user)
+		err := db.Model(oauth).Where("oauth2.user = ?", user).Select()
+		if err == pg.ErrNoRows {
+			log.Println("No tokens found")
+			err = nil
+		}
+		return err
+	})
+	return oauth.Token
+}
+
+func createSchema(db *pg.DB) error {
+	models := []interface{}{
+		(*Oauth2)(nil),
+	}
+
+	for _, model := range models {
+		log.Println("Creating schema")
+		err := db.Model(model).CreateTable(&orm.CreateTableOptions{
+			IfNotExists: true,
+		})
+		if err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func execOnDB(fn func(db *pg.DB) error) error {
+	db := pg.Connect(&pg.Options{
+		User:     "admin",
+		Password: "secret",
+	})
+	defer db.Close()
+
+	err := fn(db)
+	if err != nil {
+		panic(err)
+	}
+
+	return nil
+}
+
 func main() {
+	log.Println("Start DB")
+	execOnDB(createSchema)
+
 	log.Println("Connecting to the server")
 
 	// Connect to server
@@ -143,11 +222,11 @@ func main() {
 	log.Println("To:", header.Get("To"))
 	log.Println("Subject:", header.Get("Subject"))
 
-	body, err := ioutil.ReadAll(m.Body)
+	/* body, err := ioutil.ReadAll(m.Body)
 	if err != nil {
 		log.Fatal(err)
 	}
-	log.Println(string(body))
+	log.Println(string(body)) */
 
 	log.Println("Done!")
 }
