@@ -1,149 +1,47 @@
 package main
 
 import (
-	"errors"
 	"log"
 	"net/mail"
 
+	"newsletter.crawler/db"
+	utilsImap "newsletter.crawler/imap"
+
 	"github.com/emersion/go-imap"
 	"github.com/emersion/go-imap/client"
-	"github.com/emersion/go-oauthdialog"
-	"github.com/emersion/go-sasl"
-	"golang.org/x/oauth2"
-	"golang.org/x/oauth2/google"
-
-	"github.com/go-pg/pg/v10"
-	"github.com/go-pg/pg/v10/orm"
 )
-
-type Oauth2 struct {
-	ID    int64
-	User  string
-	Token *oauth2.Token
-}
-
-func authenticate(c *client.Client, cfg *oauth2.Config, username string) error {
-	DBToken := getToken(username)
-
-	var accessToken string
-	if DBToken == nil {
-
-		supports, err := c.SupportAuth(sasl.Xoauth2)
-		if !supports {
-			return errors.New("XOAUTH2 not supported by the server")
-		}
-
-		// Ask for the user to login with his Google account
-		code, err := oauthdialog.Open(cfg)
-		if err != nil {
-			return err
-		}
-
-		// Get a token from the returned code
-		// This token can be saved in a secure store to be reused later
-		token, err := cfg.Exchange(oauth2.NoContext, code)
-		if err != nil {
-			return err
-		}
-
-		// Adds the token to DB
-		addToken(username, token)
-		accessToken = token.AccessToken
-	} else {
-		accessToken = DBToken.AccessToken
-	}
-
-	// Login to the IMAP server with XOAUTH2
-	saslClient := sasl.NewXoauth2Client(username, accessToken)
-	return c.Authenticate(saslClient)
-}
-
-func addToken(user string, token *oauth2.Token) {
-	execOnDB(func(db *pg.DB) error {
-		_, err := db.Model(&Oauth2{
-			User:  user,
-			Token: token,
-		}).Insert()
-		return err
-	})
-}
-
-func getToken(user string) *oauth2.Token {
-	oauth := new(Oauth2)
-	execOnDB(func(db *pg.DB) error {
-		log.Println("Trying to get the token from DB for user", user)
-		err := db.Model(oauth).Where("oauth2.user = ?", user).Select()
-		if err == pg.ErrNoRows {
-			log.Println("No tokens found")
-			err = nil
-		}
-		return err
-	})
-	return oauth.Token
-}
-
-func createSchema(db *pg.DB) error {
-	models := []interface{}{
-		(*Oauth2)(nil),
-	}
-
-	for _, model := range models {
-		log.Println("Creating schema")
-		err := db.Model(model).CreateTable(&orm.CreateTableOptions{
-			IfNotExists: true,
-		})
-		if err != nil {
-			return err
-		}
-	}
-	return nil
-}
-
-func execOnDB(fn func(db *pg.DB) error) error {
-	db := pg.Connect(&pg.Options{
-		User:     "admin",
-		Password: "secret",
-	})
-	defer db.Close()
-
-	err := fn(db)
-	if err != nil {
-		panic(err)
-	}
-
-	return nil
-}
 
 func main() {
 	log.Println("Start DB")
-	execOnDB(createSchema)
+
+	db.InitilizeSchema()
 
 	log.Println("Connecting to the server")
 
-	// Connect to server
-	c, err := client.DialTLS("imap.gmail.com:993", nil)
+	// Connect to IMAP server
+	imapClient, err := client.DialTLS("imap.gmail.com:993", nil)
 	if err != nil {
 		log.Fatal(err)
 	}
 	log.Println("Connected")
-	// Don't forget to logout
-	defer c.Logout()
+	// Logout in the end
+	defer imapClient.Logout()
 
 	// Login
-	conf := &oauth2.Config{
-		ClientID:     "866717686120-v856kp4tcircmuicpbvhq0nlrj7gcbil.apps.googleusercontent.com",
-		ClientSecret: "0WmjOHmcCwSeHU2m8YrPD5j_",
-		Scopes:       []string{"https://mail.google.com"},
-		Endpoint:     google.Endpoint,
+	utilsImap.AuthenticateWithGmail(imapClient, "guilhermevrs")
+	if err != nil {
+		log.Println("Didnt work!")
+		log.Fatal(err)
 	}
-	authenticate(c, conf, "guilhermevrs")
 	log.Println("Logged in")
+
+	imapClient.Check()
 
 	// List mailboxes
 	mailboxes := make(chan *imap.MailboxInfo, 10)
 	done := make(chan error, 1)
 	go func() {
-		done <- c.List("", "*", mailboxes)
+		done <- imapClient.List("", "*", mailboxes)
 	}()
 	log.Println("Mailboxes:")
 	for m := range mailboxes {
@@ -154,7 +52,7 @@ func main() {
 	}
 
 	// Select Newsletter
-	mbox, err := c.Select("Newsletter", false)
+	mbox, err := imapClient.Select("Newsletter", false)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -173,7 +71,7 @@ func main() {
 	messages := make(chan *imap.Message, 10)
 	done = make(chan error, 1)
 	go func() {
-		done <- c.Fetch(seqset, []imap.FetchItem{imap.FetchEnvelope}, messages)
+		done <- imapClient.Fetch(seqset, []imap.FetchItem{imap.FetchEnvelope}, messages)
 	}()
 	log.Println("Last 4 messages:")
 	for msg := range messages {
@@ -197,7 +95,7 @@ func main() {
 	messages = make(chan *imap.Message, 1)
 	done = make(chan error, 1)
 	go func() {
-		done <- c.Fetch(seqset, items, messages)
+		done <- imapClient.Fetch(seqset, items, messages)
 	}()
 
 	log.Println("Last message:")
