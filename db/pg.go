@@ -22,6 +22,7 @@ func Execute(fn func(db *pg.DB) error) error {
 	db := pg.Connect(&pg.Options{
 		User:     "admin",
 		Password: "secret",
+		Database: "postgres",
 	})
 	defer db.Close()
 
@@ -56,10 +57,17 @@ func InitilizeSchema() error {
 //SaveToken saves the token in DB
 func SaveToken(user string, token *oauth2.Token) {
 	Execute(func(db *pg.DB) error {
-		_, err := db.Model(&Oauth2{
-			User:  user,
-			Token: token,
-		}).OnConflict("(user) DO UPDATE").Insert()
+		oauth := new(Oauth2)
+		err := db.Model(oauth).Where("oauth2.user = ?", user).Select()
+
+		if err == pg.ErrNoRows {
+			oauth.User = user
+			oauth.Token = token
+			_, err = db.Model(oauth).Insert()
+		} else {
+			oauth.Token = token
+			_, err = db.Model(oauth).WherePK().Update()
+		}
 		return err
 	})
 }

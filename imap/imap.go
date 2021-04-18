@@ -2,6 +2,7 @@ package imap
 
 import (
 	"errors"
+	"log"
 
 	"github.com/emersion/go-imap"
 	"github.com/emersion/go-imap/client"
@@ -49,11 +50,17 @@ func isAuthenticated(c *client.Client) bool {
 func AuthenticateWithGmail(client *client.Client, username string) error {
 	token := db.GetToken(username)
 
+	saveToken := true
 	var authError error
 	if token != nil {
+		log.Println("Token found in DB")
+
 		authError = Authenticate(client, token, username)
 		if authError != nil || !isAuthenticated(client) {
+			log.Println("Token invalid, creating a new one...")
 			token = nil
+		} else {
+			saveToken = false
 		}
 	}
 
@@ -68,13 +75,16 @@ func AuthenticateWithGmail(client *client.Client, username string) error {
 		token, genError = GenerateOauthToken(client, conf)
 		if genError != nil {
 			panic(genError)
+		} else {
+			authError = Authenticate(client, token, username)
 		}
 	}
 
-	authError = Authenticate(client, token, username)
-
 	if authError == nil && !isAuthenticated(client) {
-		authError = errors.New("Could not authenticate")
+		authError = errors.New("could not authenticate")
+	} else if saveToken {
+		log.Println("Saving token in DB...")
+		db.SaveToken(username, token)
 	}
 
 	return authError
