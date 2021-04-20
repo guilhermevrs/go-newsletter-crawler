@@ -3,6 +3,7 @@ package main
 import (
 	"log"
 	"net/mail"
+	"time"
 
 	"newsletter.crawler/db"
 	utilsImap "newsletter.crawler/imap"
@@ -34,22 +35,9 @@ func main() {
 		log.Fatal(err)
 	}
 	log.Println("Logged in")
-
 	imapClient.Check()
 
 	// List mailboxes
-	mailboxes := make(chan *imap.MailboxInfo, 10)
-	done := make(chan error, 1)
-	go func() {
-		done <- imapClient.List("", "*", mailboxes)
-	}()
-	log.Println("Mailboxes:")
-	for m := range mailboxes {
-		log.Println("* " + m.Name)
-	}
-	if err := <-done; err != nil {
-		log.Fatal(err)
-	}
 
 	// Select Newsletter
 	mbox, err := imapClient.Select("Newsletter", false)
@@ -58,42 +46,50 @@ func main() {
 	}
 	log.Println("Flags for Newsletter:", mbox.Flags)
 
-	// Get the last 4 messages
-	from := uint32(1)
-	to := mbox.Messages
-	if mbox.Messages > 3 {
-		// We're using unsigned integers here, only subtract if the result is > 0
-		from = mbox.Messages - 3
-	}
-	seqset := new(imap.SeqSet)
-	seqset.AddRange(from, to)
-
-	messages := make(chan *imap.Message, 10)
-	done = make(chan error, 1)
-	go func() {
-		done <- imapClient.Fetch(seqset, []imap.FetchItem{imap.FetchEnvelope}, messages)
-	}()
-	log.Println("Last 4 messages:")
-	for msg := range messages {
-		log.Println("* " + msg.Envelope.Subject)
-	}
-	if err := <-done; err != nil {
+	// Search by start date
+	criteria := imap.NewSearchCriteria()
+	log.Println("Going to search...")
+	criteria.WithoutFlags = []string{imap.SeenFlag}
+	criteria.SentSince = time.Date(2021, time.January, 20, 0, 0, 0, 0, time.UTC)
+	ids, err := imapClient.Search(criteria)
+	if err != nil {
 		log.Fatal(err)
+	}
+	log.Println("IDs found:", ids)
+
+	if len(ids) > 0 {
+		seqset := new(imap.SeqSet)
+		seqset.AddNum(ids...)
+
+		messages := make(chan *imap.Message, 10)
+		done := make(chan error, 1)
+		go func() {
+			done <- imapClient.Fetch(seqset, []imap.FetchItem{imap.FetchEnvelope}, messages)
+		}()
+
+		log.Println("Unseen messages received since:")
+		for msg := range messages {
+			log.Println("* " + msg.Envelope.Subject)
+		}
+
+		if err := <-done; err != nil {
+			log.Fatal(err)
+		}
 	}
 
 	// Get the last message
 	if mbox.Messages == 0 {
 		log.Fatal("No message in mailbox")
 	}
-	seqset = new(imap.SeqSet)
+	seqset := new(imap.SeqSet)
 	seqset.AddRange(mbox.Messages, mbox.Messages)
 
 	// Get the whole message body
 	section := &imap.BodySectionName{}
 	items := []imap.FetchItem{section.FetchItem()}
 
-	messages = make(chan *imap.Message, 1)
-	done = make(chan error, 1)
+	messages := make(chan *imap.Message, 1)
+	done := make(chan error, 1)
 	go func() {
 		done <- imapClient.Fetch(seqset, items, messages)
 	}()

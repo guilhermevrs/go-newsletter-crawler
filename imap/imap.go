@@ -90,3 +90,21 @@ func AuthenticateWithGmail(client *client.Client, username string) error {
 	return authError
 
 }
+
+// ListMailboxes returns the accessible mailboxes
+func ListMailboxes(imapClient *client.Client) (chan *imap.MailboxInfo, error) {
+	mailboxes := make(chan *imap.MailboxInfo, 10)
+	done := make(chan error, 1)
+	go func() {
+		done <- imapClient.List("", "*", mailboxes)
+	}()
+	log.Println("Mailboxes:")
+	for m := range mailboxes {
+		log.Println("* " + m.Name)
+	}
+	if err := <-done; err != nil {
+		return nil, err
+	}
+
+	return mailboxes, nil
+}
