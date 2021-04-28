@@ -10,7 +10,7 @@ import (
 
 func main() {
 	retriever := retrieval.NewEmailRetriever()
-	channel := retriever.RetrieveEmails()
+	channel := retriever.Execute()
 
 	for email := range channel {
 		file, _ := os.Create(fmt.Sprintf("%v_%v_%v.txt", email.Date, email.From, email.Subject))
