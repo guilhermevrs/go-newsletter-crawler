@@ -6,11 +6,10 @@ import (
 	"net/mail"
 	"time"
 
-	"newsletter.crawler/db"
+	"newsletter.crawler/internal/helpers"
 
 	"github.com/emersion/go-imap"
 	"github.com/emersion/go-imap/client"
-	utilsImap "newsletter.crawler/imap"
 )
 
 type EmailInfo struct {
@@ -27,7 +26,7 @@ type EmailRetriever struct {
 
 // NewEmailRetrieval constructs a new EmailRetriever
 func NewEmailRetriever() *EmailRetriever {
-	db.InitilizeSchema()
+	helpers.InitilizeSchema()
 	return &EmailRetriever{}
 }
 
@@ -43,7 +42,7 @@ func (er *EmailRetriever) login() {
 
 	// Login
 	log.Println("Authenticating...")
-	utilsImap.AuthenticateWithGmail(imapClient, "guilhermevrs")
+	helpers.AuthenticateWithGmail(imapClient, "guilhermevrs")
 	if err != nil {
 		log.Fatal(err)
 	}

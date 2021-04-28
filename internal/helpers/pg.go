@@ -1,4 +1,6 @@
-package db
+package helpers
+
+// TODO: Move it to struct
 
 import (
 	"log"

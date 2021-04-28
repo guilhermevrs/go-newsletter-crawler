@@ -1,4 +1,6 @@
-package imap
+package helpers
+
+// TODO: Move it to a struct
 
 import (
 	"errors"
@@ -10,7 +12,6 @@ import (
 	"github.com/emersion/go-sasl"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
-	"newsletter.crawler/db"
 )
 
 // GenerateOauthToken generates a new token for OAuth
@@ -48,7 +49,7 @@ func isAuthenticated(c *client.Client) bool {
 
 // AuthenticateWithGmail authenticates the client with GMail IMAP
 func AuthenticateWithGmail(client *client.Client, username string) error {
-	token := db.GetToken(username)
+	token := GetToken(username)
 
 	saveToken := true
 	var authError error
@@ -84,7 +85,7 @@ func AuthenticateWithGmail(client *client.Client, username string) error {
 		authError = errors.New("could not authenticate")
 	} else if saveToken {
 		log.Println("Saving token in DB...")
-		db.SaveToken(username, token)
+		SaveToken(username, token)
 	}
 
 	return authError

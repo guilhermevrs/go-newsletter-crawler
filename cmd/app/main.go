@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"newsletter.crawler/retrieval"
+	"newsletter.crawler/internal/app/retrieval"
 )
 
 func main() {
