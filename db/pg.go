@@ -36,6 +36,7 @@ func Execute(fn func(db *pg.DB) error) error {
 
 //InitilizeSchema initializes the schema for the database
 func InitilizeSchema() error {
+	log.Println("Initializing DB...")
 	return Execute(func(db *pg.DB) error {
 		models := []interface{}{
 			(*Oauth2)(nil),
