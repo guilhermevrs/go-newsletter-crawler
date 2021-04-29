@@ -6,6 +6,7 @@ import (
 	"net/mail"
 	"time"
 
+	"golang.org/x/oauth2"
 	"newsletter.crawler/internal/helpers"
 
 	"github.com/emersion/go-imap"
@@ -20,13 +21,16 @@ type EmailInfo struct {
 
 type EmailRetriever struct {
 	imapHandler *helpers.ImapHandler
+	pgHandler   *helpers.PgHandler
 }
 
 // NewEmailRetrieval constructs a new EmailRetriever
 func NewEmailRetriever() *EmailRetriever {
-	helpers.InitilizeSchema()
+	pgHandler := helpers.NewPgHandler()
+	pgHandler.InitilizeSchema()
 	return &EmailRetriever{
 		imapHandler: new(helpers.ImapHandler),
+		pgHandler:   pgHandler,
 	}
 }
 
@@ -38,13 +42,27 @@ func (er *EmailRetriever) login() {
 		log.Fatal(err)
 	}
 
+	username := "guilhermevrs" // TODO: Get that from ENV / CLI
+
+	// Checking DB for Token
+	var token *oauth2.Token
+	token, err = er.pgHandler.GetToken(username)
+	if err != nil {
+		log.Fatal(err)
+	}
+
 	// Login
+	var isNew bool
 	log.Println("Authenticating...")
-	er.imapHandler.AuthenticateWithGmail("guilhermevrs") // TODO: Get that from ENV / CLI
+	isNew, err = er.imapHandler.AuthenticateWithGmail(username, token)
 	if err != nil {
 		log.Fatal(err)
 	}
 	log.Println("Logged in")
+
+	if isNew {
+		er.pgHandler.SaveToken(username, token)
+	}
 }
 
 // logout logs the client out

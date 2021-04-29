@@ -1,26 +1,26 @@
 package helpers
 
-// TODO: Move it to struct
-
 import (
 	"log"
+
+	"newsletter.crawler/internal/models"
 
 	"github.com/go-pg/pg/v10"
 	"github.com/go-pg/pg/v10/orm"
 	"golang.org/x/oauth2"
 )
 
-//Oauth2 describes the Oauth2 information needed for IMAP
-type Oauth2 struct {
-	ID    int64
-	User  string
-	Token *oauth2.Token
+type PgHandler struct{}
+
+// NewPgHandler creates a new instance of the handler
+func NewPgHandler() *PgHandler {
+	return &PgHandler{}
 }
 
 //Execute will connect to the DB
 //will then execute the function fn passing this conencted db object
 //and then close the connection
-func Execute(fn func(db *pg.DB) error) error {
+func (pgh *PgHandler) Execute(fn func(db *pg.DB) error) error {
 	db := pg.Connect(&pg.Options{
 		User:     "admin",
 		Password: "secret",
@@ -37,11 +37,11 @@ func Execute(fn func(db *pg.DB) error) error {
 }
 
 //InitilizeSchema initializes the schema for the database
-func InitilizeSchema() error {
+func (pgh *PgHandler) InitilizeSchema() error {
 	log.Println("Initializing DB...")
-	return Execute(func(db *pg.DB) error {
+	return pgh.Execute(func(db *pg.DB) error {
 		models := []interface{}{
-			(*Oauth2)(nil),
+			(*models.Oauth2)(nil),
 		}
 
 		for _, model := range models {
@@ -58,9 +58,9 @@ func InitilizeSchema() error {
 }
 
 //SaveToken saves the token in DB
-func SaveToken(user string, token *oauth2.Token) {
-	Execute(func(db *pg.DB) error {
-		oauth := new(Oauth2)
+func (pgh *PgHandler) SaveToken(user string, token *oauth2.Token) error {
+	return pgh.Execute(func(db *pg.DB) error {
+		oauth := new(models.Oauth2)
 		err := db.Model(oauth).Where("oauth2.user = ?", user).Select()
 
 		if err == pg.ErrNoRows {
@@ -76,9 +76,9 @@ func SaveToken(user string, token *oauth2.Token) {
 }
 
 //GetToken tries to retrieve a token from DB
-func GetToken(user string) *oauth2.Token {
-	oauth := new(Oauth2)
-	Execute(func(db *pg.DB) error {
+func (pgh *PgHandler) GetToken(user string) (*oauth2.Token, error) {
+	oauth := new(models.Oauth2)
+	err := pgh.Execute(func(db *pg.DB) error {
 		log.Println("Trying to get the token from DB for user", user)
 		err := db.Model(oauth).Where("oauth2.user = ?", user).Select()
 		if err == pg.ErrNoRows {
@@ -87,5 +87,5 @@ func GetToken(user string) *oauth2.Token {
 		}
 		return err
 	})
-	return oauth.Token
+	return oauth.Token, err
 }

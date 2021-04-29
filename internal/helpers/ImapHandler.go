@@ -67,13 +67,12 @@ func (ih *ImapHandler) EstablishConnection() error {
 }
 
 // AuthenticateWithGmail authenticates the client with GMail IMAP
-func (ih *ImapHandler) AuthenticateWithGmail(username string) error {
-	token := GetToken(username)
-
+// returns true if the token has been updated
+func (ih *ImapHandler) AuthenticateWithGmail(username string, token *oauth2.Token) (bool, error) {
 	saveToken := true
 	var authError error
 	if token != nil {
-		log.Println("Token found in DB")
+		log.Println("Trying to authenticate with token...")
 
 		authError = ih.authenticate(token, username)
 		if authError != nil || !ih.isAuthenticated() {
@@ -102,12 +101,10 @@ func (ih *ImapHandler) AuthenticateWithGmail(username string) error {
 
 	if authError == nil && !ih.isAuthenticated() {
 		authError = errors.New("could not authenticate")
-	} else if saveToken {
-		log.Println("Saving token in DB...")
-		SaveToken(username, token)
+		saveToken = false
 	}
 
-	return authError
+	return saveToken, authError
 }
 
 // ListMailboxes returns the accessible mailboxes
