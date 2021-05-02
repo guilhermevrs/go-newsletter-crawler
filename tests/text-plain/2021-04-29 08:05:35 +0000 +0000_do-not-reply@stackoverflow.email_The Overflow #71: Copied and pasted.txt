@@ -1,0 +1,138 @@
+Q2 roadmap, distribution on radioactive decay, and shipping code in 
+containers ‌ ‌ ‌ ‌ ‌  
+ <https://stackoverflow.com/> 
+
+
+
+
+ APRIL 2021 
+
+ Welcome to ISSUE #71 of the Overflow! This newsletter is by developers, for 
+developers, written and curated by the Stack Overflow team andCassidy Williams 
+<https://itr-links.stackoverflow.email/u/click?_t=3603a3d8f3104ca5bd7015a5845f7fb7&_m=EoL62DB0PIGuXz8jH5uBuQ84lXlHlps2&_e=_QiVw4xkxL6Kq_I-OU4afBnKfI77FjoIfX88HTVRZxPuTd2bnAMrrH9rcbsb0dWeVEF1qnpHf4xYVNc9DjG8B3SxoCwGD7YNwE1j5XUlAoVN5IWubZGRkJQZDmmaOZBv48jI4i91xWdFCil-LQ1NSRFjmqF5DoNWqj0-C-Jd-e6BG04-YOMtUtGjjvW4FlO4SiDdPs_9w2phRLlieyDSowbBJXd8neaip9JCBAeEhORiLVYGsioAE1W0vQlkjGKF>
+ atNetlify 
+<https://itr-links.stackoverflow.email/u/click?_t=3603a3d8f3104ca5bd7015a5845f7fb7&_m=EoL62DB0PIGuXz8jH5uBuQ84lXlHlps2&_e=_QiVw4xkxL6Kq_I-OU4afOZOM0oCqsuuy0jKIrvb1QwkHWIZOMWNPCK6iuSTMOLeVDuTWeKOcbbyBczybLGtoNQkE84uGWTIEgGhFcxEULL45YJLR4857Ii-0ehWwRpRtjVPtwUxxOtY9-B2oCRv3dmx-KEES0t57P4_TNE4xFT-W5TGiXBreKWRyHfSL-Ozr796X8rmwbKE4P01pm8iSRIwfptm3apXxzvS_usQlDNLQGeGDgkjk55n1OBtvYt6oHij-wFSi5PdDR16hvrYr7E3MKhupgD-zGOVEWxRdxJ-RcBKrj9bAExDUmk948bZeThbs8xuJpwrwNDQkq5QPw%3D%3D>
+. This week: we know what you copied and pasted last summer, checking out our 
+biggest fans at rest, andthe Clapper <https://en.wikipedia.org/wiki/The_Clapper>
+ is back but in your browser this time.
+
+
+
+ 
+<https://stackoverflow.com/teams?utm_source=so-owned&utm_medium=banner&utm_campaign=campaign-18&utm_content=newsletter>
+Introducing Stack Overflow for Teams - Free 
+<https://stackoverflow.blog/2021/03/10/state-of-the-stack-community-product-q1-2021/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter>
+ Our SaaS tool that brings the power of Q&A into your company, is now free for 
+up to 50 users. 
+promotion 
+
+
+
+ From the blog 
+
+How often do people actually copy and paste from Stack Overflow? Now we know. 
+<https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter>
+stackoverflow.blog 
+ April Fool’s may be over, but once we set up a system to react every time 
+someone typed Ctrl+C, we realized there was also an opportunity to learn about 
+how people use our site. Here’s what we found.
+
+The Loop: Our Community & Public Platform Roadmap for Q2 2021 
+<https://stackoverflow.blog/?p=17882?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter>
+stackoverflow.blog 
+ Here’s where the Community platform is going this quarter. Spoiler: We’re 
+taking on a lot of big projects.
+
+Podcast 330: How to build and maintain online communities, from gaming to open 
+source 
+<https://stackoverflow.blog/2021/04/16/podcast-330-how-to-build-and-maintain-online-communities-from-gaming-to-open-source/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter>
+stackoverflow.blog 
+ From WoW and Tony Hawk Pro Skater 4 to Stack Overflow and Wikipedia, we talk 
+about building and maintaining healthy communities online.
+
+Document database. SQL queries. In-memory speed. 
+<https://developer.couchbase.com/?utm_source=stack_overflow&utm_medium=newsletter&utm_campaign=q1_dev_awareness>
+promotion 
+ The No. 1 reason developers choose Couchbase? You can use your existing SQL 
+skills to easily query and access JSON. That’s more power and flexibility with 
+less training.
+
+
+
+ Interesting questions 
+
+ Found a good question or answer? Tweet us with the hashtag 
+#StackOverflowKnows or email us at stackoverflowknows@stackoverflow.com. We’ll 
+include our favorites in the future.
+
+Is exposing regex info in end user error responses bad practice? 
+<https://softwareengineering.stackexchange.com/questions/423430/is-exposing-regex-in-error-response-to-end-user-bad-practice?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter>
+softwareengineering.stackexchange.com 
+ “If Sally from accounting types her email wrong, should she get a screen full 
+of gobbledygook?”
+
+Radioactive decay, Gaussian or uniform? 
+<https://crypto.stackexchange.com/questions/87358/radioactive-decay-gaussian-or-uniform?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter>
+crypto.stackexchange.com 
+ “The distinction between true randomness and pseudorandomness has nothing 
+whatever to do with distribution”
+
+How long can a floppy disk spin for before wearing out? 
+<https://retrocomputing.stackexchange.com/questions/17999/how-long-can-a-floppy-disk-spin-for-before-wearing-out?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter>
+retrocomputing.stackexchange.com 
+ About as long as it takes you to buy more modern storage media.  
+
+Why do fans spin backwards slightly after they (should) stop? 
+<https://physics.stackexchange.com/questions/615003/why-do-fans-spin-backwards-slightly-after-they-should-stop?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter>
+physics.stackexchange.com 
+ Turns out fans have a favorite resting position. 
+
+
+
+ Links from around the web 
+
+Uno platform deploying C# web applications with Docker 
+<https://platform.uno/blog/deploying-c-web-applications-with-docker/> 
+platform.uno 
+ Get rid of “it works on my machine” for your C# apps and ship them in 
+containers! Here’s how.
+
+Toggle dark/light mode by clapping your hands 
+<https://dev.to/devdevcharlie/toggle-dark-light-mode-by-clapping-your-hands-li7>
+dev.to 
+ If you miss your good ol’ Clapper, here’s a fun tutorial on how to bring it 
+back… in the browser!
+
+The definitive guide to profiling React applications 
+<https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications> 
+blog.asayer.io 
+ This is a great guide for getting you started with the Profiler API to 
+measure your React performance.
+
+Node.js 16 available now. We are excited to announce the release 
+<https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70> 
+nodejs.medium.com 
+ Node.js has a new version! It includes an upgraded V8 engine, npm 7.10, the 
+Stable Timers Promises API, Apple M1 support, and moore.
+
+ Onboard, organize, and bring your team up to speed in a jiffy. Try Stack 
+Overflow for Teams 
+<https://stackoverflow.com/teams/tour?utm_source=so-owned&utm_medium=theoverflow&utm_campaign=biz-self-serve&utm_content=sts>
+.
+
+
+
+ You’re receiving this email because you are subscribed to The Overflow 
+Newsletter from Stack Overflow. 
+Unsubscribe from emails like this 
+<https://itr-links.stackoverflow.email/e/eh?_t=3603a3d8f3104ca5bd7015a5845f7fb7&_m=12d7b10582ef41d48690922bd1fed32f&_e=VzQLPtFkkcXm0HhywGIx1_QWlq7dFx9RpiCfzahX3nq9McsW64lImkyL6Qd4G6q5gxSIk9h7oWbWTIgsfIctXqoc5TNU_h3LHcTyn8H5dplAYdCrCMamCU-6bitcwp3DIB4NK4EfxcRUJHUliJTcHNvjICk8qvPgksqFrtB0ZTyTatwL2W9H16oWAXg_h5XgSAkD0a1L71vjZgvyhRwXCMkzK-or3dQkgyCGVqD54o3Ddgx-xhlV9YKfLYA9DwuE-5eyCrZ327g2S61-jFHBM0DqFG6HMOhhxYWRuAuTm8_yjoXcO0ZyQ4y2aK6YwHs4dlOMdsXhR2BmwDZRN-JvY-2ivcgxLJWTJIr78JP3onGQObVskmHJOCsfVxTl-SZxC1IOLpdRCWmk_JOS_pkKkA%3D%3D>
+    Edit email settings 
+<https://stackoverflow.email/subscriptions/manage?iterable=1&id=268082&auth=bd9cb5075bee680ef9ddaf93738af72420929511fce5c7d9ea0330127e568feb&bucketId=1024&campaignId=2271444&templateId=3112368&messageId=12d7b10582ef41d48690922bd1fed32f&email=guilhermevrs%40gmail.com>
+    Contact us <https://stackoverflow.com/company/contact>     Privacy 
+<https://stackoverflow.com/legal/privacy-policy> 
+
+  
+
+Stack Overflow, 110 William Street, 28th Floor, New York, NY 10038 
+
+<3 

@@ -1,0 +1,140 @@
+Weekly articles & videos about people, culture and leadership: everything you need to design the org that makes the product.
+
+A weekly newsletter by Oren Ellenbogen (https://twitter.com/orenellenbogen) with the best content I found around people, culture and leadership in tech. You can also read this issue online (http://softwareleadweekly.com/issues/440) and recommend this newsletter to your teammates (http://softwareleadweekly.com/fwd) for a great discussion.
+
+Heya,
+
+I hope that you and your family are doing well, and you are able to find a new rhythm in this hard situation.
+
+As always, below you can read my best findings for the week -
+
+
+** This Week's Favorite
+------------------------------------------------------------
+------------------------------------------------------------
+
+​​ (https://medium.com/@padday/how-i-try-to-organise-my-life-to-make-me-happy-e521541d8691) How to Build a Technical Leadership Career (https://www.intercom.com/blog/podcasts/calms-will-larson-on-how-to-build-a-technical-leadership-career/)
+13 minutes read.
+"As the industry we’re in gets older, lots of folks are trying to develop themselves without moving into people management" -- I think that Will Larson is doing a remarkable job laying out how to approach complex problems. This interview with him covers his approach to building a career ladder for ICs (worth reading his book!) that you can apply in your organization.
+
+Read it later via Pocket (https://getpocket.com/save?url=https%3a%2f%2fwww.intercom.com%2fblog%2fpodcasts%2fcalms-will-larson-on-how-to-build-a-technical-leadership-career%2f&title=How+to+Build+a+Technical+Leadership+Career)  or Instapaper (http://www.instapaper.com/hello2?url=https%3a%2f%2fwww.intercom.com%2fblog%2fpodcasts%2fcalms-will-larson-on-how-to-build-a-technical-leadership-career%2f&title=How+to+Build+a+Technical+Leadership+Career) .
+Share it via Twitter (https://twitter.com/intent/tweet?url=https%3a%2f%2fwww.intercom.com%2fblog%2fpodcasts%2fcalms-will-larson-on-how-to-build-a-technical-leadership-career%2f&text=How+to+Build+a+Technical+Leadership+Career+via+http%3A%2F%2Fsoftwareleadweekly.com)  or email (mailto:?subject=how+to+build+a+technical+leadership+career&body=Great post: https://www.intercom.com/blog/podcasts/calms-will-larson-on-how-to-build-a-technical-leadership-career/%0d%0a%0d%0a%0d%0aFound it via http://softwareleadweekly.com/) .
+
+
+**
+
+Product [sponsored]
+------------------------------------------------------------
+------------------------------------------------------------
+
+Learn What LaunchDarkly Can Do For Your Organization (https://learn.launchdarkly.com/demo/?utm_source=software_lead_weekly&utm_medium=news_pod&utm_campaign=21q1-newsletter)
+LaunchDarkly enables companies like Square, Hulu, Atlassian, Toyota, Intuit, IBM, and others gain a competitive edge with better feature management. Move fast without breaking things and learn how your team can reap the rewards of CI/CD without the risk.
+Ship Fast. Rest Easy. LaunchDarkly.
+
+Promote your product on SWLW and reach over 27,250 leaders (mailto:oren.ellenbogen@gmail.com?subject=Product%20sponsorship%20via%20SWLW&body=I%27d%20like%20to%20sponsor%20%5Bmy%20product%20%2B%20details%5D.%20Can%20you%20share%20some%20details%20on%20what%20is%20needed%3F)
+
+
+**
+------------------------------------------------------------
+
+
+**
+Culture
+------------------------------------------------------------
+------------------------------------------------------------
+
+I’m Going to Try and Keep Up With the Literature! How Hard Can It Be Anyway? (https://twitter.com/ecologyofgavin/status/1385392508717322241)
+1 minute read.
+My humble effort to help you start the weekend with a smile on your face, even in this difficult time.
+
+Read it later via Pocket (https://getpocket.com/save?url=https%3a%2f%2ftwitter.com%2fecologyofgavin%2fstatus%2f1385392508717322241&title=I%E2%80%99m+Going+to+Try+and+Keep+Up+With+the+Literature%21+How+Hard+Can+It+Be+Anyway%3F)  or Instapaper (http://www.instapaper.com/hello2?url=https%3a%2f%2ftwitter.com%2fecologyofgavin%2fstatus%2f1385392508717322241&title=I%E2%80%99m+Going+to+Try+and+Keep+Up+With+the+Literature%21+How+Hard+Can+It+Be+Anyway%3F) .
+Share it via Twitter (https://twitter.com/intent/tweet?url=https%3a%2f%2ftwitter.com%2fecologyofgavin%2fstatus%2f1385392508717322241&text=I%E2%80%99m+Going+to+Try+and+Keep+Up+With+the+Literature%21+How+Hard+Can+It+B...+via+http%3A%2F%2Fsoftwareleadweekly.com)  or email (mailto:?subject=i%e2%80%99m+going+to+try+and+keep+up+with+the+literature%21+how+hard+can+it+be+anyway%3f&body=Great post: https://twitter.com/ecologyofgavin/status/1385392508717322241%0d%0a%0d%0a%0d%0aFound it via http://softwareleadweekly.com/) .
+How to Hire an Engineering Manager: From Within or Without? (https://leaddev.com/hiring-onboarding-retention/how-hire-engineering-manager-within-or-without)
+7 minutes read.
+Charity Majors provides the questions and mindset to explore when considering hiring a new manager - from within the organization or someone external. "Managers should have a chat about career plans with everyone on their team at least once or twice a year, and that includes asking whether they would like to try being a manager at some point." -- This is important as you want to understand the potential within your team. Don't wait until it's too late.
+
+Read it later via Pocket (https://getpocket.com/save?url=https%3a%2f%2fleaddev.com%2fhiring-onboarding-retention%2fhow-hire-engineering-manager-within-or-without&title=How+to+Hire+an+Engineering+Manager%3A+From+Within+or+Without%3F)  or Instapaper (http://www.instapaper.com/hello2?url=https%3a%2f%2fleaddev.com%2fhiring-onboarding-retention%2fhow-hire-engineering-manager-within-or-without&title=How+to+Hire+an+Engineering+Manager%3A+From+Within+or+Without%3F) .
+Share it via Twitter (https://twitter.com/intent/tweet?url=https%3a%2f%2fleaddev.com%2fhiring-onboarding-retention%2fhow-hire-engineering-manager-within-or-without&text=How+to+Hire+an+Engineering+Manager%3A+From+Within+or+Without%3F+via+http%3A%2F%2Fsoftwareleadweekly.com)  or email (mailto:?subject=how+to+hire+an+engineering+manager%3a+from+within+or+without%3f&body=Great post: https://leaddev.com/hiring-onboarding-retention/how-hire-engineering-manager-within-or-without%0d%0a%0d%0a%0d%0aFound it via http://softwareleadweekly.com/) .
+The Process Is Not the Product — The Software Methodology Anti-Manifesto. (https://mkarliner.medium.com/the-process-is-not-the-product-the-new-agile-anti-manifesto-d3e23023b466)
+3 minutes read.
+This is so good and precise: "In a (very) long technical career, I must have been exposed to the majority of software methodologies, and experience has shown that they are, by and large, more of a liability than a help. In fact, I’ll go further and say that I think that too much methodology is much more dangerous than too little." -- You won't agree necessarily with everything that Michael Karliner writes, but he will make you think about your approach to setting processes.
+
+Read it later via Pocket (https://getpocket.com/save?url=https%3a%2f%2fmkarliner.medium.com%2fthe-process-is-not-the-product-the-new-agile-anti-manifesto-d3e23023b466&title=The+Process+Is+Not+the+Product+%E2%80%94+The+Software+Methodology+Anti-Manifesto.)  or Instapaper (http://www.instapaper.com/hello2?url=https%3a%2f%2fmkarliner.medium.com%2fthe-process-is-not-the-product-the-new-agile-anti-manifesto-d3e23023b466&title=The+Process+Is+Not+the+Product+%E2%80%94+The+Software+Methodology+Anti-Manifesto.) .
+Share it via Twitter (https://twitter.com/intent/tweet?url=https%3a%2f%2fmkarliner.medium.com%2fthe-process-is-not-the-product-the-new-agile-anti-manifesto-d3e23023b466&text=The+Process+Is+Not+the+Product+%E2%80%94+The+Software+Methodology+Anti-Manife...+via+http%3A%2F%2Fsoftwareleadweekly.com)  or email (mailto:?subject=the+process+is+not+the+product+%e2%80%94+the+software+methodology+anti-manifesto.&body=Great post: https://mkarliner.medium.com/the-process-is-not-the-product-the-new-agile-anti-manifesto-d3e23023b466%0d%0a%0d%0a%0d%0aFound it via http://softwareleadweekly.com/) .
+How HashiCorp Works: A Website Dedicated to Making Our Implicit Practices Explicit. (https://works.hashicorp.com/)
+5 minutes read.
+As I often like to share Career Ladders by various companies, I also think looking at how companies share their practices and preferences is helpful. This one by HashiCorp is well executed.
+
+Read it later via Pocket (https://getpocket.com/save?url=https%3a%2f%2fworks.hashicorp.com%2f&title=How+HashiCorp+Works%3A+A+Website+Dedicated+to+Making+Our+Implicit+Practices+Explicit.)  or Instapaper (http://www.instapaper.com/hello2?url=https%3a%2f%2fworks.hashicorp.com%2f&title=How+HashiCorp+Works%3A+A+Website+Dedicated+to+Making+Our+Implicit+Practices+Explicit.) .
+Share it via Twitter (https://twitter.com/intent/tweet?url=https%3a%2f%2fworks.hashicorp.com%2f&text=How+HashiCorp+Works%3A+A+Website+Dedicated+to+Making+Our+Implicit+Practices+E...+via+http%3A%2F%2Fsoftwareleadweekly.com)  or email (mailto:?subject=how+hashicorp+works%3a+a+website+dedicated+to+making+our+implicit+practices+explicit.&body=Great post: https://works.hashicorp.com/%0d%0a%0d%0a%0d%0aFound it via http://softwareleadweekly.com/) .
+
+
+**
+
+Jobs [sponsored]
+------------------------------------------------------------
+------------------------------------------------------------
+
+Senior Developer Evangelist @ Pluralsight (Remote - USA) (https://pluralsight.wd1.myworkdayjobs.com/en-US/Careers/job/Remote---USA/Sr-Developer-Evangelist_R0005904)
+Pluralsight is building a team of developer evangelists to engage the broad developer community. If you love learning and love to talk, write and speak about code, this is the job for you.
+
+Senior Software Engineer, Data Infrastructure @ Doximity (SF/Remote) (https://grnh.se/b71d09251us)
+Doximity's Data Infra team is hiring! Join us as we innovate with Python, EMR, Snowflake, Airflow, and make an impact on physicians' and patients' lives.
+
+Team Lead @ Nebulab (Remote) (https://nebulab.it/careers/?utm_source=newsletter&utm_medium=email&utm_campaign=swlw)
+Join our distributed team and build high-volume eCommerce applications in a workplace made by developers for developers.
+
+Looking to hire for your team? Promote your open positions on SWLW!  (mailto:oren.ellenbogen@gmail.com?subject=Job%20ad%20via%20SWLW&body=I'm%20looking%20to%20hire%20%5Bjob%20position%5D.%20I'd%20love%20to%20get%20some%20details.)
+
+
+**
+
+Peopleware
+------------------------------------------------------------
+------------------------------------------------------------
+
+Make Boring Plans (https://skamille.medium.com/make-boring-plans-9438ce5cb053)
+6 minutes read.
+"When we don’t attend to the boring parts by making our plans predictable, the interesting parts turn into extra stress on top of the overwhelming anxiety of juggling these moves." -- Camille Fournier shares how to approach planning by better understanding your current project phase and communicate (expectations, progress, deliverables, etc.) accordingly.
+
+Read it later via Pocket (https://getpocket.com/save?url=https%3a%2f%2fskamille.medium.com%2fmake-boring-plans-9438ce5cb053&title=Make+Boring+Plans)  or Instapaper (http://www.instapaper.com/hello2?url=https%3a%2f%2fskamille.medium.com%2fmake-boring-plans-9438ce5cb053&title=Make+Boring+Plans) .
+Share it via Twitter (https://twitter.com/intent/tweet?url=https%3a%2f%2fskamille.medium.com%2fmake-boring-plans-9438ce5cb053&text=Make+Boring+Plans+via+http%3A%2F%2Fsoftwareleadweekly.com)  or email (mailto:?subject=make+boring+plans&body=Great post: https://skamille.medium.com/make-boring-plans-9438ce5cb053%0d%0a%0d%0a%0d%0aFound it via http://softwareleadweekly.com/) .
+10 Core Product Management Lessons (A Thread) (https://twitter.com/johncutlefish/status/1382772992950685696)
+3 minutes read.
+I like how John Cutler offers pieces of the puzzle and provides guidance on each one. He's one of my favorite product leaders. He's someone you'd like to follow if you see yourself as part of the leadership team who wants to impact your processes around execution.
+
+Read it later via Pocket (https://getpocket.com/save?url=https%3a%2f%2ftwitter.com%2fjohncutlefish%2fstatus%2f1382772992950685696&title=10+Core+Product+Management+Lessons+(A+Thread))  or Instapaper (http://www.instapaper.com/hello2?url=https%3a%2f%2ftwitter.com%2fjohncutlefish%2fstatus%2f1382772992950685696&title=10+Core+Product+Management+Lessons+(A+Thread)) .
+Share it via Twitter (https://twitter.com/intent/tweet?url=https%3a%2f%2ftwitter.com%2fjohncutlefish%2fstatus%2f1382772992950685696&text=10+Core+Product+Management+Lessons+(A+Thread)+via+http%3A%2F%2Fsoftwareleadweekly.com)  or email (mailto:?subject=10+core+product+management+lessons+(a+thread)&body=Great post: https://twitter.com/johncutlefish/status/1382772992950685696%0d%0a%0d%0a%0d%0aFound it via http://softwareleadweekly.com/) .
+The Pareto Principle Is Making You Lazy (https://www.swyx.io/8020/)
+3 minutes read.
+"It took me years of hard work to become an overnight success" is something successful makers often say. Sure, ask yourself if you're working on the right things to reduce risk or maximize impact. But don't stop after the 20% to endlessly (and aimlessly) chase higher leverage activity. Worry more about poor finish to start ratio.
+
+Read it later via Pocket (https://getpocket.com/save?url=https%3a%2f%2fwww.swyx.io%2f8020%2f&title=The+Pareto+Principle+Is+Making+You+Lazy)  or Instapaper (http://www.instapaper.com/hello2?url=https%3a%2f%2fwww.swyx.io%2f8020%2f&title=The+Pareto+Principle+Is+Making+You+Lazy) .
+Share it via Twitter (https://twitter.com/intent/tweet?url=https%3a%2f%2fwww.swyx.io%2f8020%2f&text=The+Pareto+Principle+Is+Making+You+Lazy+via+http%3A%2F%2Fsoftwareleadweekly.com)  or email (mailto:?subject=the+pareto+principle+is+making+you+lazy&body=Great post: https://www.swyx.io/8020/%0d%0a%0d%0a%0d%0aFound it via http://softwareleadweekly.com/) .
+
+
+**
+
+And finally, inspiring tweets...
+------------------------------------------------------------
+------------------------------------------------------------
+
+@DenehyXXL (https://twitter.com/DenehyXXL/status/1387106815150809094) : Spoiler alert. Just focus on becoming excellent at recruiting and your odds of building a great company go up exponentially.
+@alphacolin (https://twitter.com/alphacolin/status/1385310897929744387) : One of the most high leverage things you can do in life is to work on dealing with your own baggage. Everyone else is bringing their own baggage in to everything they do. That doesn’t excuse bad behavior but it can help you navigate it knowing it’s probably not about you.
+
+p.s. if you're interested in joining SWLW's Slack channel, simply reply to this email and let me know.
+
+If you're leading a team, consider writing your Manager README (https://managerreadme.com/?ref=swlw) (it's free) or getting my e-book and interviews Leading Snowflakes: The New Engineering Manager's Handbook (http://leadingsnowflakes.com/?ref=swlw) . You can also support me and my work by becoming a SWLW Patron (https://gum.co/I-love-SWLW) . Thank you ❤️
+
+Keep reading, keep learning.
+-- Oren Ellenbogen.
+
+============================================================
+You are receiving this because you subscribed at softwareleadweekly.com.
+
+Software Lead Weekly is curated with love by Oren Ellenbogen.
+** unsubscribe from this list (https://softwareleadweekly.us6.list-manage.com/unsubscribe?u=1a258e0fefbb23214c59c5a8d&id=efe3d3cd5b&e=f79be5a54d&c=9a760bd19a)
+or  ** update subscription preferences (https://softwareleadweekly.us6.list-manage.com/profile?u=1a258e0fefbb23214c59c5a8d&id=efe3d3cd5b&e=f79be5a54d&c=9a760bd19a)
+
+
+Mailing address is Zalman Shneor 4 st., Herzelya, Israel.

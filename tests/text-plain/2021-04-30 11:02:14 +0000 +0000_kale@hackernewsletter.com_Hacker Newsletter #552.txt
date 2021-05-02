@@ -1,0 +1,217 @@
+I'd rather be optimistic and wrong than pessimistic and right. //Elon Musk
+
+
+** hackernewsletter (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=93a0045c43&e=88bad59209)
+------------------------------------------------------------
+Issue #552 // April 30, 2021 // View in your browser (https://mailchi.mp/hackernewsletter/552?e=88bad59209)
+
+
+** #Favorites
+------------------------------------------------------------
+------------------------------------------------------------
+
+Improve infrastructure and app performance in real-time by visualizing and identifying errors using customizable, OOTB dashboards in Datadog. Start a free trial today (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=4ec1925c0a&e=88bad59209)
+//datadog sponsored
+
+Michael Collins, Apollo 11 astronaut, has died (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=217326019d&e=88bad59209)
+//npr comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=05afaf34e8&e=88bad59209)
+
+My Current HTML Boilerplate (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=cd22b29ea2&e=88bad59209)
+//matuzo comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=c8c7fc23dc&e=88bad59209)
+
+Yayagram (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=a632d357ca&e=88bad59209)
+//twitter comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=d312ec9190&e=88bad59209)
+
+Changes at Basecamp (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=495cd87185&e=88bad59209)
+//hey comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=d94f30761d&e=88bad59209)
+
+We were promised Strong AI, but instead we got metadata analysis (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=ecb620bf33&e=88bad59209)
+//calpaterson comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=d5effbed8a&e=88bad59209)
+
+Earth Restored – 50 restored images of earth released (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=367832a23b&e=88bad59209)
+//tobyord comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=7ada9d6000&e=88bad59209)
+
+A house 3D printed from raw earth (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=5e5dc95168&e=88bad59209)
+//itsnicethat comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=4cd3e82ee4&e=88bad59209)
+
+What's Accenture? (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=7f63ad4e98&e=88bad59209)
+//retool comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=a67ba9d6c9&e=88bad59209)
+
+99 bits of unsolicited advice (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=ebdfe83218&e=88bad59209)
+//kk comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=7d6f713f25&e=88bad59209)
+
+Minimal 3D creative coding tool (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=dc90dd9177&e=88bad59209)
+//github comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=fe330ea4d0&e=88bad59209)
+
+
+** #Ask HN
+------------------------------------------------------------
+------------------------------------------------------------
+
+What diagrams do you use in software development? (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=8f1429459c&e=88bad59209)
+
+How do you organize your knowledge? (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=b7dbe17392&e=88bad59209)
+
+
+** #Show HN
+------------------------------------------------------------
+------------------------------------------------------------
+
+Swimlanes.io – generated editable sequence diagrams (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=11cefac312&e=88bad59209) //swimlanes comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=04e44fa33e&e=88bad59209)
+
+Light Pollution Map (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=eedd195524&e=88bad59209) //lightpollutionmap comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=822dec3300&e=88bad59209)
+
+I made a simulator for personal finance (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=4902b1b4f5&e=88bad59209) //projectifi comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=ca72a63cf9&e=88bad59209)
+
+MarkShow – Create Slideshows with Markdown (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=4546f6b2b5&e=88bad59209) //mark comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=b2ad9c021f&e=88bad59209)
+
+
+** #Code
+------------------------------------------------------------
+------------------------------------------------------------
+
+Semgrep: Semantic grep for code (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=bdff5decdc&e=88bad59209) //semgrep comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=a8fc627586&e=88bad59209)
+
+The unreasonable effectiveness of print debugging (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=3d6d22cee3&e=88bad59209) //buttondown comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=0a54e84eab&e=88bad59209)
+
+Verilog2factorio (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=9b7120a89f&e=88bad59209) //github comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=199410ca3f&e=88bad59209)
+
+You might as well timestamp it (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=f24a8e8d4d&e=88bad59209) //changelog comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=0e4b0ebc2c&e=88bad59209)
+
+3D Game Shaders for Beginners (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=9975a2427f&e=88bad59209) //github comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=b0722f2b1f&e=88bad59209)
+
+Nobody cares about your clean code (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=bec5574172&e=88bad59209) //felipecsl comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=4a7db7a4d6&e=88bad59209)
+
+Heroku-style deployments with Docker and Git tags (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=b084c3ff26&e=88bad59209) //ricardoanderegg comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=feb2b41700&e=88bad59209)
+
+
+** #Design
+------------------------------------------------------------
+------------------------------------------------------------
+
+CSS Tips (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=46775a9158&e=88bad59209) //markodenic comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=6b33331f6c&e=88bad59209)
+
+Developers on what makes their games ‘hand-drawn’ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=022741a6fd&e=88bad59209) //polygon comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=91d762f152&e=88bad59209)
+
+Beyond Calibri: Finding Microsoft’s next default font (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=27c62a3982&e=88bad59209) //microsoft comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=865d1e8fc6&e=88bad59209)
+
+
+** #Learn
+------------------------------------------------------------
+------------------------------------------------------------
+
+Flu has disappeared worldwide during the Covid pandemic (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=2e72c2bfaa&e=88bad59209) //scientificamerican comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=2755339cbd&e=88bad59209)
+
+The knackerman: the toughest job in British farming (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=7ff65eee6f&e=88bad59209) //theguardian comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=563a4b5ab7&e=88bad59209)
+
+'World’s most powerful' tidal turbine sets sail from Dundee (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=7db7661d09&e=88bad59209) //bbc comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=24b6b779dd&e=88bad59209)
+
+Phoebus Cartel (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=70f1c2a75d&e=88bad59209) //wikipedia comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=7e12d58119&e=88bad59209)
+
+Semantic Satiation (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=c3d1413b8f&e=88bad59209) //wikipedia comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=657f12ce19&e=88bad59209)
+
+Álvaro de Campos (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=d91aebc799&e=88bad59209) //wikipedia comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=cc26670663&e=88bad59209)
+
+
+** #Books
+------------------------------------------------------------
+------------------------------------------------------------
+
+The End of the Road (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=ae7dbfec3e&e=88bad59209) //thedriftmag comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=99acced158&e=88bad59209)
+
+The Goodreads “Classics”: A Computational Study (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=214cbe2f01&e=88bad59209) //post45 comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=c20b86716b&e=88bad59209)
+
+Honkaku : Japanese whodunnits that play fair by the reader (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=39365b2355&e=88bad59209) //theguardian comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=42f619e3e5&e=88bad59209)
+
+
+** #Watching
+------------------------------------------------------------
+------------------------------------------------------------
+
+Investigating why McDonald's ice cream machines are often broken (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=4b886fe63c&e=88bad59209) //youtube comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=4697158ed8&e=88bad59209)
+
+The culture war is killing us (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=0fe8cd5290&e=88bad59209) //youtube comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=2b5afe640e&e=88bad59209)
+
+The Secret Life of Components: Springs (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=908298fcd4&e=88bad59209) //youtube comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=0bd32863e2&e=88bad59209)
+
+A strange determinant – Timothy Gowers solves a problem (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=26de3a2fb5&e=88bad59209) //youtube comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=50750e6ad4&e=88bad59209)
+
+
+** #Working
+------------------------------------------------------------
+------------------------------------------------------------
+
+Google is saving $1B per year as a result of employees working from home (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=cbfb52308f&e=88bad59209) //latimes comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=2392736301&e=88bad59209)
+
+Best practices for remote software engineering (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=627387c5e1&e=88bad59209) //acm comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=9be98b3aa4&e=88bad59209)
+
+U.S. Labor Secretary throws support behind classifying gig workers as employees (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=7d347dec3c&e=88bad59209) //reuters comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=5544b7ff85&e=88bad59209)
+
+Job descriptions should show a salary or salary range (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=0c98dac83e&e=88bad59209) //sifted comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=5c637bc875&e=88bad59209)
+
+
+** #Startup News
+------------------------------------------------------------
+------------------------------------------------------------
+
+Farming robot kills 100k weeds per hour with lasers (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=39d26ce12a&e=88bad59209) //freethink comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=df432fa072&e=88bad59209)
+
+Mighty Makes Google Chrome Faster (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=021f6dd13d&e=88bad59209) //mightyapp comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=0bee5de5bf&e=88bad59209)
+
+Tesla Q1 2021 Results (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=72a2d0d038&e=88bad59209) //thron comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=5b0eac82a7&e=88bad59209)
+
+Lambda School lays off 65 employees (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=88e6d27e07&e=88bad59209) //lambdaschool comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=f20177d37a&e=88bad59209)
+
+
+** #Fun
+------------------------------------------------------------
+------------------------------------------------------------
+
+Lego Microscope (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=82a199fa50&e=88bad59209) //github comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=c31e3f82c5&e=88bad59209)
+
+Mars sucks (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=af3fcda981&e=88bad59209) //marssucks comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=9592bf8c48&e=88bad59209)
+
+The Tamagotchi Cemetery (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=d68175cc95&e=88bad59209) //burialsandbeyond comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=f3fc65e69f&e=88bad59209)
+
+Party in a Spreadsheet (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=a8957a8822&e=88bad59209) //medium comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=3a330a13a8&e=88bad59209)
+
+Mystery Science Theatre 3000 Is Crowdfunding Another Comeback (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=c76736b363&e=88bad59209) //slashdot comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=732792a282&e=88bad59209)
+** #Cutting Room Floor
+------------------------------------------------------------
+------------------------------------------------------------
+
+Why Lichess will always be free (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=74acd9ae82&e=88bad59209) //lichess comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=aaefe241f9&e=88bad59209)
+
+Dan Kaminsky has died (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=fc53308ee6&e=88bad59209) //twitter comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=8c92dadc60&e=88bad59209)
+
+GitHub blocks FLoC across all of GitHub Pages (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=86febd8b5c&e=88bad59209) //github comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=f64c288914&e=88bad59209)
+
+A new way to make maps with OpenStreetMap (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=05d53a2fd9&e=88bad59209) //protomaps comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=a84d84737c&e=88bad59209)
+
+Who won the Amstel Gold Race? Human error in photo-finishes (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=7afe5961b1&e=88bad59209) //tglyn comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=de55047781&e=88bad59209)
+
+Ubuntu 21.04 (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=e5be85e5a1&e=88bad59209) //ubuntu comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=472cd8f4e5&e=88bad59209)
+
+Where did the other dollar go, Jeff? (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=90fb05f328&e=88bad59209) //cloudandtree comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=611578bf20&e=88bad59209)
+
+How to navigate directories faster with Bash (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=33d52b4434&e=88bad59209) //github comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=54a3f1f5d9&e=88bad59209)
+
+2021 Williams F1 Computational Fluid Dynamics (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=8c6541fc41&e=88bad59209) //maxtayloraero comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=aed93d5a76&e=88bad59209)
+
+Starting a new digital identity (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=5d4dcef008&e=88bad59209) //k3tan comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=6ca80868cc&e=88bad59209)
+
+The Boyer-Moore Fast String Searching Algorithm (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=a873cbddef&e=88bad59209) //utexas comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=786824b326&e=88bad59209)
+
+Show your costs to boost sales (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=79308f7437&e=88bad59209) //ariyh comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=7d90ef36e5&e=88bad59209)
+
+Starlink Ground Station Map (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=4d3c01a52b&e=88bad59209) //google comments→ (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=f82aa819a8&e=88bad59209)
+__END__
+
+Published by Curpress (https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=ce2dc5f501&e=88bad59209) from Bellingham, Washington . Hacker Newsletter is not affiliated with Y Combinator in any way.
+
+You can update your email (https://hackernewsletter.us1.list-manage.com/profile?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e&e=88bad59209&c=79fdfaa551) or unsubscribe (https://hackernewsletter.us1.list-manage.com/unsubscribe?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e&e=88bad59209&c=79fdfaa551) .
+
+Not a subscriber? Subscribe at https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=4a79ff00bb&e=88bad59209.
+
+Email Marketing Powered by Mailchimp
+http://www.mailchimp.com/email-referral/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=referral_marketing&aid=faa8eb4ef3a111cef92c4f3d4&afl=1

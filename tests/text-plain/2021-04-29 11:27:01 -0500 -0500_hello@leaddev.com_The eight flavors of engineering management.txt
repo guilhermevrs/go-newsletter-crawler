@@ -1,0 +1,152 @@
+ 
+
+LeadDev Originals
+
+Weekly words and voices on engineering leadership
+
+ 
+
+F E A T U R E D  P A N E L   
+
+Building the tools for cross-team communication
+
+If you struggle with communication between teams, you're not alone. 
+
+Discover how to implement a successful internal communication strategy
+that works.
+
+Register for free
+
+A R T I C L E 
+A thorough team guide to RFCs
+
+Juan Pablo Buriticá * 18 mins
+
+When we work as teams, every line of code is a decision we make on
+behalf of someone else.
+
+Read the article
+
+A R T I C L E 
+Abandoning the build: when investing is the only way to scale
+
+Josh Barr * 10 mins
+
+Giving your systems and engineers a new lease of life with an external
+solution.
+
+Read the article
+
+A R T I C L E
+The migration trap in software engineering
+
+Jai Chakrabarti * 6 mins
+
+Why do most migrations fail?
+
+Read the article
+
+A R T I C L E
+The eight flavors of engineering management
+
+Yenny Cheung * 6 mins
+
+Learning how to apply a range of styles and skills from your leadership
+toolbox.
+
+Read the article
+
+ 
+
+V I R T U A L  W O R K S H O P
+
+Shortcut to effective technical leadership
+
+In this virtual workshop on May 13, seasoned technology leader, Pat Kua,
+will show you how to accelerate your journey from maker to multiplier.
+
+Buy your ticket  
+
+A R T I C L E
+Using observability to accelerate the Engineering Flywheel
+
+Ran Ribenzaft * 6 mins
+
+Achieving a team-wide flow state where engineers build faster and with
+greater reliability.
+
+Read the article
+
+A R T I C L E
+Supporting neurodiversity in your engineering teams
+
+Anna Granta * 7 mins
+
+Get curious about how your neurodiverse teammates see the world
+differently from you.
+
+Read the article
+
+A R T I C L E
+Learnings from 'Fostering autonomy in engineering teams'
+
+Ellie Spencer-Failes * 3 mins
+
+A snapshot of the series.
+
+Read the article
+
+A R T I C L E
+Debugging engineering teams: Groundhog Day
+
+Camille Fournier * 6 mins
+
+Slowing down to unstick your team.
+
+Read the article
+
+Events calendar
+
+M A Y  4  *  L I V E  D I S C U S S I O N
+How to lead with greater impact
+
+M A Y  5  *  P A N E L  D I S C U S S I O N
+Making your meetings more effective
+
+M A Y  11  *  C O U R S E
+LeadDev Together 
+
+M A Y  13  *  V I R T U A L  D I S C U S S I O N
+Shortcut to tech leadership
+
+M A Y  19  *  P A N E L  D I S C U S S I O N
+Building the tools for cross-team communication
+
+ 
+
+We're committed to providing a harassment-free conference experience for
+everyone. Please read our Code of Conduct
+. You're receiving this email as you
+opted in for LeadDev content and updates - you can unsubscribe here
+. You will continue to receive emails from us if you
+are subscribed to other LeadDev mailing lists.
+
+Copyright © 2021. All rights reserved. White October Events Ltd, 17a Electric Lane, Brixton, London, SW9 8LA, United Kingdom
+
+https://whiteoctoberevents.lt.acemlna.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnRoZWxlYWRkZXYlM0Z1dG1fc291cmNlJTNEQWN0aXZlQ2FtcGFpZ24lMjZ1dG1fbWVkaXVtJTNEZW1haWwlMjZ1dG1fY29udGVudCUzRFRoZSUyQmVpZ2h0JTJCZmxhdm9ycyUyQm9mJTJCZW5naW5lZXJpbmclMkJtYW5hZ2VtZW50JTI2dXRtX2NhbXBhaWduJTNET3JpZ2luYWxzJTJCLSUyQklzc3VlcyUyQjM0JTJCJTI1MjgyOSUyQkFwciUyNTI5&a=1001137578&account=whiteoctoberevents%2Eactivehosted%2Ecom&email=icmf%2F7OOtYVQlNG2P2aF9hwUnRnlmwiuCIJkd9A7F3A%3D&s=39e4ed54a709ef5572e260fcdc0ff8c7&i=359A365A2A4448 
+
+ 
+
+https://whiteoctoberevents.lt.acemlna.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cubGlua2VkaW4uY29tJTJGY29tcGFueSUyRjUyODg1MjElM0Z1dG1fc291cmNlJTNEQWN0aXZlQ2FtcGFpZ24lMjZ1dG1fbWVkaXVtJTNEZW1haWwlMjZ1dG1fY29udGVudCUzRFRoZSUyQmVpZ2h0JTJCZmxhdm9ycyUyQm9mJTJCZW5naW5lZXJpbmclMkJtYW5hZ2VtZW50JTI2dXRtX2NhbXBhaWduJTNET3JpZ2luYWxzJTJCLSUyQklzc3VlcyUyQjM0JTJCJTI1MjgyOSUyQkFwciUyNTI5&a=1001137578&account=whiteoctoberevents%2Eactivehosted%2Ecom&email=icmf%2F7OOtYVQlNG2P2aF9hwUnRnlmwiuCIJkd9A7F3A%3D&s=39e4ed54a709ef5572e260fcdc0ff8c7&i=359A365A2A4449 
+
+ 
+
+https://whiteoctoberevents.lt.acemlna.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZjJTJGTGVhZERldiUyRiUzRnV0bV9zb3VyY2UlM0RBY3RpdmVDYW1wYWlnbiUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9jb250ZW50JTNEVGhlJTJCZWlnaHQlMkJmbGF2b3JzJTJCb2YlMkJlbmdpbmVlcmluZyUyQm1hbmFnZW1lbnQlMjZ1dG1fY2FtcGFpZ24lM0RPcmlnaW5hbHMlMkItJTJCSXNzdWVzJTJCMzQlMkIlMjUyODI5JTJCQXByJTI1Mjk=&a=1001137578&account=whiteoctoberevents%2Eactivehosted%2Ecom&email=icmf%2F7OOtYVQlNG2P2aF9hwUnRnlmwiuCIJkd9A7F3A%3D&s=39e4ed54a709ef5572e260fcdc0ff8c7&i=359A365A2A4450
+_________________
+
+Sent to guilhermevrs@gmail.com
+
+Unsubscribe:
+http://whiteoctoberevents.activehosted.com/proc.php?nl=2&amp;c=359&amp;m=365&amp;s=39e4ed54a709ef5572e260fcdc0ff8c7&amp;act=unsub
+
+White October Events Ltd, 17a Electric Lane, Brixton, London, SW9 8LA, United Kingdom

@@ -1,22 +1,24 @@
 package retrieval
 
 import (
+	"io"
 	"io/ioutil"
 	"log"
-	"net/mail"
 	"time"
 
 	"golang.org/x/oauth2"
 	"newsletter.crawler/internal/helpers"
 
 	"github.com/emersion/go-imap"
+	"github.com/emersion/go-message/mail"
 )
 
 type EmailInfo struct {
-	Date    string
-	From    string
-	Subject string
-	Body    string
+	Date      string
+	From      string
+	Subject   string
+	BodyHtml  string
+	BodyPlain string
 }
 
 type EmailRetriever struct {
@@ -102,26 +104,47 @@ func (er *EmailRetriever) fetchByIds(ids []uint32, messages *chan *imap.Message)
 // extractEmailInfo extracts info from Message
 func extractEmailInfo(msgObj *imap.Message) EmailInfo {
 	section := &imap.BodySectionName{}
-	bodyReader := msgObj.GetBody(section)
-	if bodyReader == nil {
+	bodyLiteral := msgObj.GetBody(section)
+	if bodyLiteral == nil {
 		log.Fatal("Server didn't returned message body")
 	}
 
-	parsed, err := mail.ReadMessage(bodyReader)
+	reader, err := mail.CreateReader(bodyLiteral)
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	body, err := ioutil.ReadAll(parsed.Body)
-	if err != nil {
-		log.Fatal(err)
+	var bodyHtml string
+	var bodyTextPlain string
+	for {
+		p, err := reader.NextPart()
+		if err == io.EOF {
+			break
+		} else if err != nil {
+			log.Fatal(err)
+		}
+
+		switch h := p.Header.(type) {
+		case *mail.InlineHeader:
+			ct, _, _ := h.ContentType()
+			bodyBytes, _ := ioutil.ReadAll(p.Body)
+			if ct == "text/html" {
+				bodyHtml = string(bodyBytes)
+			} else if ct == "text/plain" {
+				bodyTextPlain = string(bodyBytes)
+			}
+		}
 	}
 
+	date, _ := reader.Header.Date()
+	from, _ := reader.Header.AddressList("From")
+	subject, _ := reader.Header.Subject()
 	return EmailInfo{
-		Date:    parsed.Header.Get("Date"),
-		From:    parsed.Header.Get("From"),
-		Subject: parsed.Header.Get("Subject"),
-		Body:    string(body),
+		Date:      date.String(),
+		From:      from[0].Address,
+		Subject:   subject,
+		BodyHtml:  bodyHtml,
+		BodyPlain: bodyTextPlain,
 	}
 }
 

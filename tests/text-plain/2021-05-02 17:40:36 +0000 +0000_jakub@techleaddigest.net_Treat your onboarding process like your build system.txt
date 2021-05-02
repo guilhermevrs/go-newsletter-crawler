@@ -1,0 +1,109 @@
+And more news, tutorials and articles about building better
+teams, culture, and leadership in this week's issue.
+
+#35 — May 03, 2021
+View in browser ( https://techleaddigest.net/digests/35 )
+
+****************
+Tech Lead Digest
+****************
+
+Spread the word, build the community, share the knowledge –
+invite your friends 
+( https://techleaddigest.net/subscribers/8df220c8-6c84-4209-ab48-b7d85c8020b6/invitations/new )
+.
+
+-------
+sponsor
+-------
+
+Top Trends Influencing Tech Hiring: 2021 State of Software
+Engineers Report 
+( https://techleaddigest.net/links/10180/redirect?subscriber_id=8df220c8-6c84-4209-ab48-b7d85c8020b6&utm_medium=email )
+
+
+Hired’s 2021 State of Software Engineers Report includes
+industry insights on what engineers want, the most in-demand
+skills and how you can use this data to optimize your hiring
+process and fill your most challenging tech roles in the USA, UK,
+and Canada. Download it for free!
+
+--------------------
+this week's favorite
+--------------------
+
+Treat your onboarding process like your build system 
+( https://techleaddigest.net/links/10156/redirect?subscriber_id=8df220c8-6c84-4209-ab48-b7d85c8020b6&utm_medium=email )
+
+
+Whether you have one, ten, or a hundred engineers, a scalable
+onboarding process is a very high leverage activity with
+immediate results and has great return on investment over time.
+
+Adding is favoured over subtracting in problem solving 
+( https://techleaddigest.net/links/10155/redirect?subscriber_id=8df220c8-6c84-4209-ab48-b7d85c8020b6&utm_medium=email )
+
+
+A series of problem-solving experiments reveal that people
+are more likely to consider solutions that add features than
+solutions that remove them, even when removing features is more
+efficient.
+
+Three feedback models 
+( https://techleaddigest.net/links/10158/redirect?subscriber_id=8df220c8-6c84-4209-ab48-b7d85c8020b6&utm_medium=email )
+
+
+Giving feedback is perhaps the most important part of a
+manager’s job. Feedback is the main mechanism by which managers
+help the folks on their team improve, so effective feedback leads
+to individual career growth and better team results: win-win.
+
+Why shared services don’t work with agility 
+( https://techleaddigest.net/links/10117/redirect?subscriber_id=8df220c8-6c84-4209-ab48-b7d85c8020b6&utm_medium=email )
+
+
+One of my clients wants to use shared services “teams” as
+they start their agile transformation. Their developers work on a
+product for months and years at a time.
+
+Start your new team off on the right foot 
+( https://techleaddigest.net/links/10125/redirect?subscriber_id=8df220c8-6c84-4209-ab48-b7d85c8020b6&utm_medium=email )
+
+
+You’ve just taken a role as a team lead. While most leaders
+double down on setting clearer goals to rally the team, this is
+only half the picture. The underlying elements – like values,
+strengths, and behaviors – are what you really need to address to
+bond and perform as a team.
+
+-----------
+newsletters
+-----------
+
+* Programming Digest 
+( https://programmingdigest.net?utm_source=techleaddigest&utm_medium=email&utm_campaign=footer )
+
+* AI Digest 
+( https://aidigest.net?utm_source=techleaddigest&utm_medium=email&utm_campaign=footer )
+
+* C# Digest 
+( https://csharpdigest.net?utm_source=techleaddigest&utm_medium=email&utm_campaign=footer )
+
+* Elixir Digest 
+( https://elixirdigest.net?utm_source=techleaddigest&utm_medium=email&utm_campaign=footer )
+
+* React Digest 
+( https://reactdigest.net?utm_source=techleaddigest&utm_medium=email&utm_campaign=footer )
+
+
+© 2021 Bonobo Press ( https://bonobopress.com/ )
+
+Would you like to advertise 
+( https://techleaddigest.net/advertise ) or post a job 
+( https://techleaddigest.net/job ) with us? Check out our latest
+media kit ( https://bonobopress.com/media-kit ).
+
+If you no longer wish to receive these emails, click to
+unsubscribe 
+( https://techleaddigest.net/subscribers/8df220c8-6c84-4209-ab48-b7d85c8020b6/unsubscribe )
+.

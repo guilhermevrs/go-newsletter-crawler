@@ -1,0 +1,108 @@
+And more news, tutorials and articles about React in this
+week's issue.
+
+#302 — May 03, 2021
+View in browser ( https://reactdigest.net/digests/302 )
+
+************
+React Digest
+************
+
+Spread the word, build the community, share the knowledge –
+invite your friends 
+( https://reactdigest.net/subscribers/6fb62025-7adf-4b2a-881b-105ca8a9518d/invitations/new )
+.
+
+-------
+sponsor
+-------
+
+Should You Care About React Server Components? 
+( https://reactdigest.net/links/10179/redirect?subscriber_id=6fb62025-7adf-4b2a-881b-105ca8a9518d&utm_medium=email )
+
+
+This article will help you decide whether React Server
+Components is something you should check out immediately, or
+whether you should wait. You’ll look at what React Server
+Components are, the problems they solve, and wrap up with a
+conversation on whether you should care or not.
+
+--------------------
+this week's favorite
+--------------------
+
+21 best practices for a clean React project 
+( https://reactdigest.net/links/10153/redirect?subscriber_id=6fb62025-7adf-4b2a-881b-105ca8a9518d&utm_medium=email )
+
+
+React is very unopinionated about how things should be
+structured. This is exactly why it’s our responsibility to keep
+our projects clean and maintainable.
+
+15 DevTool secrets for JavaScript developers 
+( https://reactdigest.net/links/10164/redirect?subscriber_id=6fb62025-7adf-4b2a-881b-105ca8a9518d&utm_medium=email )
+
+
+Web developers spend considerable time using browser DevTools
+but it’s easy to miss useful tools and techniques when dozens of
+updates are added every year. The following features are
+primarily for JavaScript coders using Chrome-based browsers but
+all developers will discover something useful.
+
+How to build a table of contents in React 
+( https://reactdigest.net/links/10176/redirect?subscriber_id=6fb62025-7adf-4b2a-881b-105ca8a9518d&utm_medium=email )
+
+
+A table of contents lets your readers see a high-level
+summary of your page. In this tutorial, we’ll be building a table
+of contents with React. This component will dynamically render a
+list of page headings and highlight which heading you are
+currently viewing.
+
+Upload a file with React 
+( https://reactdigest.net/links/10177/redirect?subscriber_id=6fb62025-7adf-4b2a-881b-105ca8a9518d&utm_medium=email )
+
+
+We could make it controlled or uncontrolled as any input with
+React. Will vary only on how we store the file in the React
+component.
+
+A complete beginner's guide to useReducer hook 
+( https://reactdigest.net/links/10135/redirect?subscriber_id=6fb62025-7adf-4b2a-881b-105ca8a9518d&utm_medium=email )
+
+
+To begin with useReducer, first, we need to understand how
+JavaScript's built-in Array method called Reduce works, which
+shares remarkable similarity with the useReducer hook.
+
+-----------
+newsletters
+-----------
+
+* Programming Digest 
+( https://programmingdigest.net?utm_source=reactdigest&utm_medium=email&utm_campaign=footer )
+
+* Tech Lead Digest 
+( https://techleaddigest.net?utm_source=reactdigest&utm_medium=email&utm_campaign=footer )
+
+* AI Digest 
+( https://aidigest.net?utm_source=reactdigest&utm_medium=email&utm_campaign=footer )
+
+* C# Digest 
+( https://csharpdigest.net?utm_source=reactdigest&utm_medium=email&utm_campaign=footer )
+
+* Elixir Digest 
+( https://elixirdigest.net?utm_source=reactdigest&utm_medium=email&utm_campaign=footer )
+
+
+© 2021 Bonobo Press ( https://bonobopress.com/ )
+
+Would you like to advertise 
+( https://reactdigest.net/advertise ) or post a job 
+( https://reactdigest.net/job ) with us? Check out our latest media
+kit ( https://bonobopress.com/media-kit ).
+
+If you no longer wish to receive these emails, click to
+unsubscribe 
+( https://reactdigest.net/subscribers/6fb62025-7adf-4b2a-881b-105ca8a9518d/unsubscribe )
+.

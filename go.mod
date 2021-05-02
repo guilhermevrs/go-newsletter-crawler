@@ -4,6 +4,7 @@ go 1.13
 
 require (
 	github.com/emersion/go-imap v1.0.6
+	github.com/emersion/go-message v0.11.1
 	github.com/emersion/go-oauthdialog v0.0.0-20160528192336-53626322c75d
 	github.com/emersion/go-sasl v0.0.0-20191210011802-430746ea8b9b
 	github.com/go-pg/pg/v10 v10.7.7

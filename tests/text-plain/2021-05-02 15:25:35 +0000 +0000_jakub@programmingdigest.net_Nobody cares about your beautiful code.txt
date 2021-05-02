@@ -1,0 +1,112 @@
+And more news, tutorials and articles about programming and
+technology in this week's issue.
+
+#418 — May 03, 2021
+View in browser ( https://programmingdigest.net/digests/418 ) 
+
+******************
+Programming Digest
+******************
+
+Spread the word, build the community, share the knowledge –
+invite your friends 
+( https://programmingdigest.net/subscribers/aa84539e-a5c7-4fc1-9e51-235b2aab5e1c/invitations/new )
+.
+
+-------
+sponsor
+-------
+
+Learn how to structure your remote hiring process 
+( https://programmingdigest.net/links/10178/redirect?subscriber_id=aa84539e-a5c7-4fc1-9e51-235b2aab5e1c&utm_medium=email )
+
+
+A new era of remote work suddenly arrived and managers need
+to enhance their recruiting process if they want to win the best
+talent for their companies. This guide shows you how GitLab,
+Zapier and other companies build thriving remote teams. Download
+Revelo’s free eBook.
+
+--------------------
+this week's favorite
+--------------------
+
+Nobody cares about your beautiful code 
+( https://programmingdigest.net/links/10146/redirect?subscriber_id=aa84539e-a5c7-4fc1-9e51-235b2aab5e1c&utm_medium=email )
+
+
+Companies need to make a tradeoff between “move fast and
+break things” or grow in a steady, sustainable and healthy pace
+and be eaten up by competition. In the end, it’s all about which
+startup is able to move faster and adapt quicker until they
+finally achieve enough traction to then take a step back and
+reevaluate early technical decisions.
+
+Understanding quantum computing through drunken walks 
+( https://programmingdigest.net/links/10154/redirect?subscriber_id=aa84539e-a5c7-4fc1-9e51-235b2aab5e1c&utm_medium=email )
+
+
+The jumping off point for exploring quantum computing is to
+understand that while many of the principles are
+counterintuitive, the classical universe we know and love is but
+a mere shadow of the quantum fabric of reality. To get a feel for
+that fundamental difference we will walk through an example that
+helps to illustrate the power of quantum computation.
+
+You might as well timestamp it 
+( https://programmingdigest.net/links/10166/redirect?subscriber_id=aa84539e-a5c7-4fc1-9e51-235b2aab5e1c&utm_medium=email )
+
+
+Future-you will be glad you stored a timestamp instead of
+that boolean.
+
+Use Google like a pro 
+( https://programmingdigest.net/links/10161/redirect?subscriber_id=aa84539e-a5c7-4fc1-9e51-235b2aab5e1c&utm_medium=email )
+
+
+Googling is one of the most important skills for every
+developer. Let me show you how to get better at Googling.
+
+The compiler writer resource page 
+( https://programmingdigest.net/links/10136/redirect?subscriber_id=aa84539e-a5c7-4fc1-9e51-235b2aab5e1c&utm_medium=email )
+
+
+I know complete pans of the literature are left out, but this
+is a page for amateur compiler writers. Anything that I did not
+find practical is not listed here. (I also did not include the
+things that I do not yet know!) All the remarks in grey and even
+the selection of documents are personal. If you have suggestions
+of papers to include, please contact me! Finally, the order of
+items in the various sections is totally arbitrary.
+
+-----------
+newsletters
+-----------
+
+* Tech Lead Digest 
+( https://techleaddigest.net?utm_source=programmingdigest&utm_medium=email&utm_campaign=footer )
+
+* AI Digest 
+( https://aidigest.net?utm_source=programmingdigest&utm_medium=email&utm_campaign=footer )
+
+* C# Digest 
+( https://csharpdigest.net?utm_source=programmingdigest&utm_medium=email&utm_campaign=footer )
+
+* Elixir Digest 
+( https://elixirdigest.net?utm_source=programmingdigest&utm_medium=email&utm_campaign=footer )
+
+* React Digest 
+( https://reactdigest.net?utm_source=programmingdigest&utm_medium=email&utm_campaign=footer )
+
+
+© 2021 Bonobo Press ( https://bonobopress.com/ )
+
+Would you like to advertise 
+( https://programmingdigest.net/advertise ) or post a job 
+( https://programmingdigest.net/job ) with us? Check out our latest
+media kit ( https://bonobopress.com/media-kit ).
+
+If you no longer wish to receive these emails, click to
+unsubscribe 
+( https://programmingdigest.net/subscribers/aa84539e-a5c7-4fc1-9e51-235b2aab5e1c/unsubscribe )
+.

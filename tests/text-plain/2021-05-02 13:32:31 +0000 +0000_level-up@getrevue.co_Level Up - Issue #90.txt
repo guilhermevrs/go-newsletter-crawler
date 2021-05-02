@@ -1,0 +1,163 @@
+Level Up
+May  2 - Issue #90
+
+
+Learning from others 
+
+There&#39;s something human about easily calling out others&#39; mistakes, but often harder to see your own. Call it ego, bias, system 1 thinking (http://click.revue.email/ss/c/pWlQWDMEZOO7txnhRGMDsb2WzXzxaiDLJ1c_w1x5ZOFZk069oIQXTbfKaizrpf_5Bqik65JYs8LUKqq-QzMOSrZCpXDkBc1EPym7pFvTi9V6nnPUunYzZPaGvn1twy-J/3bk/3T5ZFz3DS_yxU9t81eolmw/t89/zGkAgW1-A0QmjMxdvY1SVXz47K3LR5EORfvU73CSUtA but we all have it (me included). One fun exercise I like to do to facilitate leadership learning is asking people to share experiences where they felt suffering under other leaders. Sometimes it&#39;s hard to stop these discussions! More importantly, we can learn from these experiences.
+
+While it looks easy from the outside to call a situation a mistake, you never know the full picture of what led them there. In these moments, it&#39;s worth asking yourself, &quot;What would you do differently?&quot; My tech twitter feed was full of the news on Basecamp this week. Here are some links if you want to understand what happened:
+
+(Apr 26) &quot;Changes at Basecamp (http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6v_G2lsbhs5-hQfI2zsNsnTUk3muoeo5ziCwdT1B5tKKbzPO25fp8UxGR1i9zEbt9b8RM01rY0DIHgan6RDaYnY/3bk/3T5ZFz3DS_yxU9t81eolmw/t90/xsD4qzOYhhTqbqiocevHIwrYcfEPgb3idm4xcCx-NSc by Jason Fried(Apr 26) &quot;Basecamp&#39;s new etiquette regarding societal politics at work (http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6vlgfTGbsmkj4J-caG5fefJfAPYLy0JL5ozA6Q1MATUraXlJCpdPBM6LxQN2tYKfekGaA7BIrOgSr5JkwOAIzo9KQPJm6QxJzramkPVZbEVNQBNoMAS6IsID8tZlrGUI4A/3bk/3T5ZFz3DS_yxU9t81eolmw/t91/rZinLIRD2x6PsCZ-1cYzeVv65Ea-L6OK5FJgD2AQIw4 - DHH&#39;s clarification(Apr 27) &quot;Breaking Camp (http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6hF6NeJ6AjXl-IAYDgRekRw4A-oKo-_vcDlM8HJeiTeZ3DVziY1poyOnrlHMZCSRdtyjZcibcuha5K9y74HdeOqwMidVGM50-WOm6cjYoBtVkZBFv6-DJHQX-pm3RU45EQ/3bk/3T5ZFz3DS_yxU9t81eolmw/t92/-Ke-JJcqRH1TpAt4BkZU3eRlOikDbZzWEgtk88XINAM by Casey Newton (The Verge)(Apr 28) &quot;Let it all out (http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6vlgfTGbsmkj4J-caG5fefI3yuH6vi2ETWX11nsr_HsXhpA5qzMCtja5OcFlPFTLug/3bk/3T5ZFz3DS_yxU9t81eolmw/t93/1ExsX_9zYetW9GtqCLxVfy7HbSjGLO_4o77B9yIgCu8 from DHH(Apr 28) &quot;What really happened at Basecamp (http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6m6G2Ia04-WTZBrFbUKLsuxfHgI2nbdICTakWU-Nz6NbpWGJS5LUU1Z8K9Zu9r5JMwE84IRT4W_ZTXUjINcM1A0/3bk/3T5ZFz3DS_yxU9t81eolmw/t94/seAwbokUHK7ao3foQ4NbqPGpGukVrLXoQbAO9SgkNpQ by Casey Newton (Platformer News)(Apr 28) &quot;Basecamp is offering severance packages to employees who want out... (http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6rOzIrD-HP243YxtTub5Zym-9abu8QADO8XplczR6hLiXgoK7vwlhoBZvQ1_TKMGqXwkWXDY_dGk2lJg71irLW0PmsYUj_6Ph44XVL5oLiPW1C0NIlnO1hLN6P_M16XpzxTiqUmuSSvKPQuwtXjyUxk/3bk/3T5ZFz3DS_yxU9t81eolmw/t95/_54DjxABEmg2P91dWglLoc0nenOcQ6MXvG739YUz4bg via Business Insider(Apr 30) &quot;Basecamp implodes as employees flee company, including senior staff (http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6hF6NeJ6AjXl-IAYDgRekRxJQbgR9BO6jemq4G3vZ6C7_4eUUKsGmE0S3ntaLMcdSvBg3Q4zyAggh8nrMedmSJWIrHRvqgjscghC0kOMQVPzN3HpPG52oAn58mXDmlfVB0oIwfRl8PGDpWOh85YuDy8/3bk/3T5ZFz3DS_yxU9t81eolmw/t96/9pYNvZpRR7CDrbf0s8il0PL954Z07_vK4b29vVCojT4 by Kim Lyons (The Verge)(Apr 30) &quot;34% of Basecamp employees are resigning (http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6oorBs3N9IaEzRDjALF7kEgFLNkFpum8-5QtYTGffq4sQVHwLOA84v5HYu8xFlyKg8CencmzFiqpWhY9F9FzPLFV1Oy1IC2QAxgtdSzwgzuq/3bk/3T5ZFz3DS_yxU9t81eolmw/t97/Cln4m5mfAPmVrh4PaVtfqX7IunacH10X-3fxE8YRTow by Megan Rose Dickey (Protocol)Set aside your opinion on the decision for a moment. There&#39;s a great leadership learning opportunity in both communicating and handling responses. I can only see the external responses here and can only guess at the internal communication.
+
+Try answering these questions: What would *you* do differently in this situation? What can you do *this week* to put that into action?
+
+Want to level up your technical leadership skills? Sign up for the online workshop, “Shortcut to Tech Leadership (http://click.revue.email/ss/c/pWlQWDMEZOO7txnhRGMDsTVv5WzNMTu4ToiDw4PuxTU3HeKbLJe54lU30H7OPGshcGFqH1nWh48cRiiqD6qjzdQPvTJzYcJgjNZ9fCvHnRr8KMs7rEtogYT3oaCIaFBEy0GLajPrLXNNF6fMDjGYvrKMpwsUVbki1lchR0u4UJQ5bsE_8kNr48_T40tLLkhb9Y2yd9tfOLxOzfn25ZndqQ/3bk/3T5ZFz3DS_yxU9t81eolmw/t98/luRhBBZ9c0oKP-cmmvcVasEPWiZlBQT0jMSm_wkTg64 or take a self-paced course at the http://click.revue.email/ss/c/hf0qTaNKhLJNpqi3dOX0IF0fysv4VqtUY3UUK5pY3i4/3bk/3T5ZFz3DS_yxU9t81eolmw/t99/5vHdLmKt3tgKVzz8xKCtRWGskKHbI2Dg5OFv75DAZ4o (http://click.revue.email/ss/c/hf0qTaNKhLJNpqi3dOX0IHsiI5vBwJT0eYCxgsBFdK_ZXBEHJY2Sbz7kAOnGbnAQSdxdn5UayOGSxQcNPULOnovbtCrGTCCMIy6Oar2kc2Bf7XfMshPRw8kB2FTdgSEehJyqcuQdNLAFjy4wOfrkzlsVHNKZO_kN1FmqbJGzyf0/3bk/3T5ZFz3DS_yxU9t81eolmw/t100/EW4zh_fKrsbEX3kapyIhRTYIYcQ1Hy-QoVX9sVeMkvE
+
+
+======================================
+
+
+** SPONSORED CONTENT
+--------------------------------------
+
+Swapfiets’ CTO&#39;s lessons learned from a year of remote working
+
+Learn more about how CTOs handle Developer Experience, hiring talent and other learnings from a year of working fully remote. Join this free 60-min CTO Roundtable (http://click.revue.email/ss/c/_mOPxFACmCkoh7BN_FHILYbNZ8fxlg-sRBe6jE6hRJagvj4h1mbvkmyQ5gaWSw1e/3bk/3T5ZFz3DS_yxU9t81eolmw/t101/bdJ20Gi87pUSDSOv5UCFQb1s1r5I4hsGDbgyg7ATvdU
+
+
+
+
+** LEADERSHIP
+--------------------------------------
+
+* WHEN THINGS DON’T GO TO PLAN: WHY FAILURE IS VALUABLE
+Reading time: 6mins
+
+Xero&#39;s CTO, Mark Rees, touches on an important topic for all leaders: how to handle failure. I&#39;ve seen too many leaders crash and burn pretending that everything will got to plan, or go perfectly and also handling &quot;failure&quot; poorly. Mark Rees shares some better alternatives.
+
+
+http://click.revue.email/ss/c/Q4yAUzxwNXTr2G6dmefrxxWBDctZdqpMvuJ0kVrecXx4rRf1j_SleqMY5UEbKfNscfnUs97tCpoVCvZzg5Yuxgp2bPXoPYMLebf-GIlHQIVD9lSTq_enbOiAdNpTdOeLQATHdvZrcKR5abIlZ4nxUg/3bk/3T5ZFz3DS_yxU9t81eolmw/t102/guGhX6wATh2DiuV6t424ouQMbRY6Lx_HQYWqpeuKiq0
+
+* WHAT GOOD LEADERS DO WHEN REPLACING BAD LEADERS
+Reading time: 6mins (HBR Paywall)
+
+Andrew Blum (@andrewjblum) (http://click.revue.email/ss/c/2fVGm-9a_FyZubtxRY0IliEHbLI0aR4zDuN8apjJ9V6YBek5LO7NiPyZHGqxLlm2/3bk/3T5ZFz3DS_yxU9t81eolmw/t103/cUTPCBqQTb7Z_jnGREmMN_oWDWNPY0taK6tOKQVsgAY shares a particular challenge I have seen and experienced particularly in my consulting days. How do you handle inheriting a mess made by a previous leader? He offers three concrete tips that are useful to move your team and organisation forward. 
+
+
+http://click.revue.email/ss/c/_mOPxFACmCkoh7BN_FHILbDLSMNWm-S8G0IlJVjpomoRT9j_tgEK95hLMo0SwTWHtlLMwoSEcmBm0pyAMHh_JbRT9cnqrSfPx7TO65b9vvo/3bk/3T5ZFz3DS_yxU9t81eolmw/t104/nmaxQxoij6AqjDzMXfrpqUbnkywXakQqrCLVJyfnsTM
+
+* THREE FEEDBACK MODELS 
+Reading time: 7mins
+
+A common trait I see with high-performing teams is when people give and receive feedback to each other. In lower-performing teams, I see this transfer between leaders and team members and the worst where there isn&#39;t any feedback at all! Feedback is a skill, so everyone can learn how. In this article, Jacob Kaplan-Moss (@jacobian) (http://click.revue.email/ss/c/2fVGm-9a_FyZubtxRY0IluUbpr9Z6qlsF_te4vCPYyukaR_rcBtny5PCkfJSdaow/3bk/3T5ZFz3DS_yxU9t81eolmw/t105/rbd7dpxyMm8VpEloFWwWIIw0O5iZI8G2DMYEB-EiaMs shares three different approaches and looks at their commonalities.
+
+
+http://click.revue.email/ss/c/k6Y3vJQcqCw3Cdh2NSIV0zYLm2vVzW4Erv3U8Ij35B2ax_98EsQUrr8b_kROyTTEvF-fTuYyAxbnmN-DQFPDJA/3bk/3T5ZFz3DS_yxU9t81eolmw/t106/NPG5n1x-bMg4XqgES2v2bPjPzvHhQk0GFrhB8fP4e2Q
+
+[IMAGE]
+APAC-ideal date/time now available and going fast (click the banner) - http://click.revue.email/ss/c/qdcGKZkIoGeXjvVtydBpPHauafzrpOFIRSXusJOckhP27Ar9MYJ1PNfqp98s53B0ApIg5Sz9CHDeuSUfWp7AFZey8WTaxjmhe4KOe_Sl1_lGCANpeo4x5p5FHFYb6ItkKw4tcjLcflN-4sJu0YzS7w/3bk/3T5ZFz3DS_yxU9t81eolmw/t107/4qSOHcmrAC1TnL-W6Cf1gPkWNencgeIlVkzQFfjVDTU (http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6hU1qYx4dlCKjNsABZRtyPI_ejE-XXtF4KWuWtD70t5IShLxL5I7buHZKMM_1f3dFQ/3bk/3T5ZFz3DS_yxU9t81eolmw/t108/CehERGsJpqVcLWu1aSkAYA7heCPbjNvGswVBu0b2zUQ
+
+** TECH
+--------------------------------------
+
+* CONTINUOUS COMPLIANCE ON AWS
+Reading time: 5mins
+
+I&#39;m including this in the tech section because Connor Mendenhall (@ecmendenhall) (http://click.revue.email/ss/c/2fVGm-9a_FyZubtxRY0Ilp8BHisKRyQiGDbWoAo3NemXkEEvHxlsEOh9Ggl5QuuW/3bk/3T5ZFz3DS_yxU9t81eolmw/t109/sP_K8VvZOA3tss5fhQaC6lCKnOjSnpZhOlUP-XFsex0 outlines some great tech tools to use if you&#39;re on AWS and interested in continuous compliance. I&#39;m sure there are equivalents for other cloud providers too, but this is a great starting point.
+
+
+http://click.revue.email/ss/c/LfNyg_0PHFzmjvsOtDR0uLuhGtMjUb2fQ7cMgNASGArNFItRzz12k6tiNfV1OQKW-0HUF-VKh4c74_ORXbidJfKjctg1aY5Z-F2h4laFHwPeQ515ZAfKMNGMVXoHYesn/3bk/3T5ZFz3DS_yxU9t81eolmw/t110/9_aHuD9H0ygei3OQ2zyfhH3JDqnj1T5bKYAHXIkHXHM
+
+* CRYPTO MINERS ARE KILLING FREE CI
+Reading time: 5mins
+
+Reading this article from Colin Chartier (@colin_cozy) (http://click.revue.email/ss/c/2fVGm-9a_FyZubtxRY0Ilhk2LlcYeR9QF1D0YSMQqLpUmpUF2lofVi36TnsUaaHC/3bk/3T5ZFz3DS_yxU9t81eolmw/t111/mrrVl6FOIN_LDvGEKbUX0VNUjasbW66spFp-1H6kPM0 made me very sad. Although unsurprising, it&#39;s still very disappointing to see bad actors take advantage of services like free CI services, which will have a significant negative impact on open-source teams or those with restricted funding like non-profits 😔. Bonus reading on this topic via &quot;Cryptocurrency is an abject disaster (http://click.revue.email/ss/c/i4W3jH19ejJsNqtlezSpO3G2_BlVsTXcEcDmX3W9k0jIoIcvHom6qp3uFUl_cdCyDeUyGjImkbLTxArko-Yt_PFZVI1lC7BTeIDTr_vW8cNINkvb4zWg1KtighHag8_4/3bk/3T5ZFz3DS_yxU9t81eolmw/t112/X2x_Uocqrh_HhSUVNGvYuRTwLD9ojInHIehJEjFHeMk 
+
+
+http://click.revue.email/ss/c/lE7OFJqn4zlUcgAKez9mo0-pVTjUarGnyS3vKrisejC3D2IoQI6r9y8-slFdQTgKWD-fcaPPMVkapbqnx2zI2MwB8jCRuPR-qitkyj2mtyQ/3bk/3T5ZFz3DS_yxU9t81eolmw/t113/r6QJDblwX4LHbjSNyUIJVSXDIWKmtiZrY0a7Xhx2oL8
+
+* THE ARCHITECTURE BEHIND A ONE-PERSON TECH STARTUP
+Reading time: 25mins
+
+This is a really awesome, detailed read about the tools and approach Anthony N. Simon (@anthonynsimon) (http://click.revue.email/ss/c/2fVGm-9a_FyZubtxRY0IlgA87hAe9Kq1SfxtLWE5fP_Aww40eHXBR8tYUXdVN-ax/3bk/3T5ZFz3DS_yxU9t81eolmw/t114/Msjor8LFNFhzS8JuF2oqo39XmZxKcOvi4uE2p7ESpxQ uses to run his one-person startup. I think he&#39;s drawn on some solid engineering approaches and made some good choices I think even some bigger, well-funded startups could learn from 😅.
+
+
+http://click.revue.email/ss/c/PokiEE_-mfzzxUfuaCbVcFY6oOE9XYi4reDbZcQsL6HP-DX9dFtkR5zAxHy_ZEBRN_YUvSUGrY9OwIu36T8vVw/3bk/3T5ZFz3DS_yxU9t81eolmw/t115/-eMp81aT-LUbyp9HZjUYPoVYAQ_qDc4R4NqFK_fzv7A
+
+
+** WANT TO SPONSOR AN ISSUE OR ADVERTISE A LEADERSHIP ROLE?
+--------------------------------------
+
+🌟🌟🌟 Reach thousands of engineering leaders around the world. Maybe you want to share a leadership role you’re looking to fill? Interested in becoming a sponsor? Get in touch (mailto:pat@patkua.com?subject=Enquiry%20about%20Sponsored%20Section%20for%20Level%20Up&amp;amp;utm_campaign=Level%20Up&amp;amp;utm_medium=email&amp;amp;utm_source=Revue%20newsletter) for details. 🌟🌟🌟
+
+
+
+
+** ORGANISATION &amp; PROCESSES
+--------------------------------------
+
+* THE REMOTE WORK REPORT BY GITLAB: THE FUTURE OF WORK IS REMOTE
+PDF Report: 21 pages (no email necessary)
+
+GitLab published their 2nd report, containing their finding a survey run in Q1 this year with ~3,900 participants. While some of these results probably won&#39;t be shocking for those who have embraced remote, the results are worth discussing with your leadership team, particularly if you&#39;re a hiring manager. 
+
+
+http://click.revue.email/ss/c/PokiEE_-mfzzxUfuaCbVcKaw-xW2MD5bXrbk7kRecaJRhA8JCvTqqb9I1PGC29Q97njlKrr21awAmbtOTcNFFw/3bk/3T5ZFz3DS_yxU9t81eolmw/t116/xxQqkI6ef1tZHDaDCL3Dq_fKHeDIe-nkuuvtZriLaAs
+
+* MIND THE PLATFORM EXECUTION GAP
+Reading time: 18mins
+
+In early April I was reading about how different organisations approach platform teams, so was very excited to read this detailed in-depth article from Cristóbal García García (@deranged_xp) (http://click.revue.email/ss/c/2fVGm-9a_FyZubtxRY0Ils14AjfvLK6nk03BVHUP9ih-qPnYuoAmPeU4tJPnb_RH/3bk/3T5ZFz3DS_yxU9t81eolmw/t117/163g-16iFAd5Myjr2QT51zfRMT0ji11p5NKOIQ3LAFo and Chris Ford (@ctford) (http://click.revue.email/ss/c/2fVGm-9a_FyZubtxRY0IliWWudm8BjXkE7OoTGb1zQAiPi-yKbUUXn-AiwTBMZVA/3bk/3T5ZFz3DS_yxU9t81eolmw/t118/P_Nj3IeTvccgzGjTOsjf3UBJ8hHU_1qP_vK7INl6YhQ It&#39;s a long, but great guide that resonates with many of the good characteristics of what makes a platform team successful. 
+
+
+http://click.revue.email/ss/c/Q4yAUzxwNXTr2G6dmefrx1Xm8seAX1gPlLLQIL6kH4J2eIDQ99Gwrcga-5QvPa2uGYlTCLV0AjXDRlbhyoaJx3O6ck1BqYhJ9QMyklUNyEI/3bk/3T5ZFz3DS_yxU9t81eolmw/t119/ccKRlWuPCOFuj6nLQnHl6JmgPneQ6HrNPAWr6DsTzWM
+
+* 3 LESSONS LEARNED FROM A DECADE IN STARTUPS
+Reading time: 2mins
+
+Julian Simpson (@builddoctor) (http://click.revue.email/ss/c/2fVGm-9a_FyZubtxRY0IlscMgkvIYG9ucgoIvB8TCxXuZN_4ah4cEQ7_y2AdaFir/3bk/3T5ZFz3DS_yxU9t81eolmw/t120/fNRjmLPcKOdFBK9z8y68joQ4WI5diH4Z7r6yAFkmmmA shares 3 short lessons after working for his 5th venture-funded startups in his career. These are also useful observations to recognise and test your own company for.
+
+
+http://click.revue.email/ss/c/i4W3jH19ejJsNqtlezSpOzn2fbEn8Kk384WKUVhN13P5EIugvBVh6N0l_Hqp1VpD197Y709fKUBGrFNozKgkt9baToE1urWKKh_VCHn-MKScTLtR0Tecs7LDy4fp0QMf/3bk/3T5ZFz3DS_yxU9t81eolmw/t121/P63cl2u6Ql7YiwRpJq8nW36593ZeAvresznlVvZdb1Q
+
+
+** TWEETS OF THE WEEK
+--------------------------------------
+
+Nice!
+
+
+
+🤣 observation. Click the tweet to see some helpful responses. Some I&#39;ve definitely used before 👇
+
+
+
+A thread worth expanding if you were interested in some potential lessons learned from the topic I covered in the intro 👇
+
+
+
+
+** THANKS FOR MAKING IT THIS FAR! 🤗
+--------------------------------------
+
+If you enjoyed this newsletter, please send me feedback (mailto:pat@patkua.com?subject=LevelUp%20Newsletter%20Feedback&amp;amp;utm_campaign=Level%20Up&amp;amp;utm_medium=email&amp;amp;utm_source=Revue%20newsletter) and share with others!
+
+Want to level up your technical leadership skills? Watch out for future dates for the Shortcut to Tech Leadership (http://click.revue.email/ss/c/2uZV3a4RNdOYAXzkSSiTs4o5UjllbKemBZhcBz57C10_65YbT5Ibd7rQnKrh5PuuqstXJVPTYswQZuAE4hQqLpsAfZ-KjSvTrUADtgwLe5vcRxjnUhdlPQUPFSivfwz9VImGtVmBLlD8gTu8TfN8GzrE5GrT3-FfW1tk4F8eqTI/3bk/3T5ZFz3DS_yxU9t81eolmw/t122/Z-5pV7MpLg1zaLo4z0qWjwCQrAutktyl8xK8KKHBoY8 online workshop, or check out self-paced courses at the Tech Lead Academy (http://click.revue.email/ss/c/hf0qTaNKhLJNpqi3dOX0IHsiI5vBwJT0eYCxgsBFdK_ZXBEHJY2Sbz7kAOnGbnAQSdxdn5UayOGSxQcNPULOnovbtCrGTCCMIy6Oar2kc2Bf7XfMshPRw8kB2FTdgSEehJyqcuQdNLAFjy4wOfrkzmiT0ScG2OB-hGS5uJKKhqE/3bk/3T5ZFz3DS_yxU9t81eolmw/t123/oZ2bsBky_RKknr5FcFLWh7V_ySpoTKfnbGMb7fasSTg including “Time Management for Technical Leaders (http://click.revue.email/ss/c/pWlQWDMEZOO7txnhRGMDsYtzO-LuBsf7nf6bUQ6_kpzrk2-fY6_d933qOtgn8rDDbsqPtVum9zfaPGrfTOKA2wCqnPJDnMDQmCGGVg2G3_oIs96n6_EwDNNNrpnUEkcuukvR58v2NlkJnHrBtYCa1zfzRV1IvaPyn_gMH5FBKFIpZuw95YB5uJ4W92tF36xr/3bk/3T5ZFz3DS_yxU9t81eolmw/t124/cw_5VxSSo2RSpeKprCzRN2KGsVke4x1H7ceDRrnztaE and “Fundamentals of Systems Thinking (http://click.revue.email/ss/c/pWlQWDMEZOO7txnhRGMDsYtzO-LuBsf7nf6bUQ6_kpyaTYB0Kl7qWUMLOH61mETMuFuCDYocxk4-5ufsHzsw9SD3cjrPrcSORxrmTf45MpcCgEH-jq-T8YTH89Ait6pN5FNLaAGFvyF-WLveTZIoBF6CVtU_iDeNT5twriTTmnz02xMCU7zXK8VgZKuGPAl2hfYG8oHThzTEZyDQfWkoSw/3bk/3T5ZFz3DS_yxU9t81eolmw/t125/e4Zi3_C0-uWtW2UAQv75WZYwoKOqHD79iv8FrbD3oJw
+
+
+
+
+
+======================================
+Do you enjoy receiving this? Please share it:
+
+Twitter: http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6gOslNED0SdLA9GUdYhkIDophKUKpRULmabPgR-syZ82OXICOogk2yAtZ-GaI0PBKyn7QBGsFnewmnBPfQD06YXancJkmcWKn-bCRFORvyX1AVujNOE9bbiCDiE8XjlA25Z2i6lc7WnIJr_fal7UZdtgg_u_7CfIODIy53V3tVzQOiL0UxrzXvX2KvHKMD_daW7hwobgUT4vMVQ7qXGPA94/3bk/3T5ZFz3DS_yxU9t81eolmw/t126/gU8UAc9QzVgOZhn53hd3xxXoUSrvJ7N9AsmZshH3GNE
+
+Facebook: http://click.revue.email/ss/c/oCpw1kIKy2k8Rxqa1mzXjLlbWec2X4kRcTUgMBPFZrQl3kAUnT9lkrrYk0MWeMjdZdkqTURkJ_mxHLZDFsyBbtcGdpHL-4lByi8q0c3p5XN5W4fIn5zN45cY68S7cQDx/3bk/3T5ZFz3DS_yxU9t81eolmw/t127/B1OURHZuPtEWVbqRtF4pnJROXFZYzrWb_54J0D8m2Lw
+--------------------------------------
+
+Carefully curated by Level Up with Revue (http://click.revue.email/ss/c/XN2t88CAhalHja1RClwc6iksYS8R-KbfvQJjPLMiLo4/3bk/3T5ZFz3DS_yxU9t81eolmw/t128/fh7EqreAxNA79uQtQ5XY3BxLpJQti_7SZu1V3w4FiZA
+
+If you don&#39;t want these updates anymore, please unsubscribe
+http://click.revue.email/ss/c/-GwETtSFyEoSOSsFsxIEl58qjucHIMb-bSSmFFrzZX6s5ZzNbJgTTLuMLRFGkb64GyzpNBjxyjyqIf9YwecOvvPd8KM1jeplAonOIHB_p2k/3bk/3T5ZFz3DS_yxU9t81eolmw/t129/7maKqBQScvohnouhGvqOUsPIeF6qcKQGP7ibS_zjSvs
